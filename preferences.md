@@ -9,6 +9,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Prefer active stories with a meaningful backlog and reasonably frequent release cadence.
 - Avoid generic progression sludge, stat/dungeon grinding that replaces plot, comedy-first stories, effortless domination, harem-heavy stories, romance-heavy stories, and AI-flavored/repetitive prose.
 - Do not assume the user wants Royal Road only anymore. Search beyond Royal Road when useful, but still favor web serials/progression/speculative fiction with the right fit.
+- Strong setting preference: medieval or medieval-adjacent fantasy should be the main/start setting. Other planes, realms, or worlds are fine later, but modern Earth, system-apocalypse, tower/roguelite, sci-fi-first, or contemporary settings are poor fits unless explicitly requested.
 
 ## Core taste
 - Genuine struggle matters more than whether the MC is weak or OP.
@@ -54,6 +55,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Side cast orbiting the MC.
 - Protagonist becoming the only relevant young fighter.
 - Heavily game-like systems when the system overwhelms story/character/mystery.
+- Modern/system-apocalypse/roguelite setting as the main setting when a medieval fantasy world is available.
 
 ## Search procedure
 1. Check all repo notes before surfacing a title.
@@ -62,5 +64,6 @@ This repository is the source of truth for future recommendation searches. Check
 4. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
 5. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
 6. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
-7. Call out release cadence and status.
-8. If a title is only a superficial fit, do not recommend it just to fill space.
+7. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
+8. Call out release cadence and status.
+9. If a title is only a superficial fit, do not recommend it just to fill space.
