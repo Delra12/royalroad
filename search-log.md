@@ -70,3 +70,34 @@ User clarified that Re:ZERO is structurally close to what they want: repeated ca
 
 ### Search lesson
 The user is not merely asking for “time loop fantasy.” The closest target is now: **medieval/high-fantasy home setting + male MC + repeated catastrophic failure that remains plausible across many arcs + information/relationship/political knowledge as progression + grounded prose/tone + minimal anime tropes + no death-as-XP shortcut.**
+
+## 2026-09-26 — human-MC-only refinement
+
+### New hard constraint
+- Human male MC only. Nonhuman protagonists are now a hard mismatch. This specifically rules out Skeleton Soldier despite its otherwise strong loop structure.
+- User rejected Player 0.4 as well; do not resurface it.
+
+### Strong candidate: A Knight Who Eternally Regresses / The Knight Only Lives Today
+- Human male MC: Encrid/Enkrid.
+- Core setting is explicitly medieval European-style fantasy: mercenaries, knights, armies, nobility, war, magic, elves, assassins, territory management.
+- He dies in battle and resets to the beginning of the same day. He can remain trapped on one day for many deaths until he learns enough, trains enough, or discovers the right approach to survive.
+- Evidence from later chapters/reviews shows repeated genuine failure remains central, including repeated deaths to opponents/events that he cannot initially overcome. This is not a one-off regression premise.
+- Progression is largely retained skill/experience/knowledge rather than a stat reward on death.
+- Supporting cast is praised; MC continues to struggle and learns from each repeat.
+- Strongest caveat: compared with Re:ZERO/Hundred Reigns, it is more combat/training/military focused and appears lighter on puzzle-box mystery/politics.
+- Second caveat: it is a Korean web novel, and currently available English prose translations vary in quality. The official English WEBTOON adaptation exists under **The Knight Only Lives Today** and may be the cleaner entry point, but the web novel has far more material.
+- Novel Updates lists the source at 2500+ chapters and ongoing, so backlog/activity are excellent.
+
+### Promising but too early: Echoes of Tomorrow: A Time Loop Reckoning
+- Royal Road, human male MC Isaac, ongoing.
+- Medieval/high-fantasy setting from chapter one: prisoner wagon, swords, soldiers, ghouls, witches, nobles/manors, magic, crown/religious structures.
+- MC repeatedly dies and wakes on the same wagon. Current chapters show at least eight loops, with failures revealing enemy behavior, magic rules, character identities/relationships, hidden factions, and routes through events.
+- Strong alignment with the desired information-gain loop structure: he explicitly changes tactics based on prior deaths, saves people who died in earlier loops, learns names/motives, and recognizes that people in each timeline are distinct versions whose deaths still matter emotionally.
+- Tone/prose is Western-web-serial rather than anime/light-novel flavored.
+- Main problem: as of Sept 26, 2026 it only has about 27 chapters / ~547 pages after a recent rewrite/relaunch. The author advertises at least 4 chapters/week, but the backlog is still small and the story is too young to know whether quality/loop structure holds up long-term.
+
+### Rejected / not prioritized in this search
+- **No Man's Wish** — human male loop MC, but WWI-style trench-war fantasy rather than medieval; wrong setting.
+- **The Crimson Regressions** — premise screams chosen-one/anime-webnovel tropes (Demon King + Goddess Saint parentage, ten Fables, fate modifier); poor tonal fit.
+- **Human Lord Summoning** — inactive, AI-assisted, and modern-class-isekai framing.
+- **An Infinite Recursion of Time** — explicit harem/GameLit wish-fulfillment orientation; poor fit.
