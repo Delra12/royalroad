@@ -1,0 +1,159 @@
+# Used / Previously Discussed Titles
+
+Treat every title in this file as already used. Do not recommend again unless explicitly revisiting it.
+
+## Read / liked / positive reference points
+- Mother of Learning
+- The Hundred Reigns / Hundred Reigns
+- The 108
+- RE: Monarch
+- Mage of Shimmer Mountain
+- Loopbreaker
+- Cradle
+- Jackal Among Snakes
+- Saving the School Would Have Been Easier as a Cafeteria Worker
+- Red Rising (books 1–3)
+- The Will of the Many (book 1)
+- Super Powereds
+- Iron Prince (book 1; book 2 less liked)
+- Bastion
+- Book of the Dead (RinoZ)
+- Weirkey Chronicles
+
+## Explicit dislikes / rejections / poor fits
+- Dominion of Thorns
+- Trinity Magic
+- Peculiar Soul
+- The Bound and the Broken
+- Hellsgrog
+- Years of the Apocalypse — female MC
+- Rising From the Abyss — inactive
+- 12 Miles Below — not interested
+- The Perfect Run — lost interest after a while
+- Mage Errant
+- DIE. RESPAWN. REPEAT. — death becomes XP/power grinding rather than meaningful failure
+- Harker — prior recommendation was unverified/mistaken; do not resurface as if established
+
+## Previously discussed / recommended / searched
+- Teren Marr, Again
+- I Always Get That Feeling of Déjà Vu
+- In Living Memory
+- The Looping MoronMagus
+- Manifold of Aeons
+- A Regressor’s Tale of Cultivation
+- Purple Days
+- Death After Death
+- Dear Spellbook
+- The Undying Immortal System
+- Bog Standard Isekai
+- The Game at Carousel
+- Fox’s Tongue and Kirin’s Bone
+- Chasing Sunlight
+- Level 9 Wizard [Leveling Means Death]
+- My Lord! Please!
+- Every Map is Wrong
+- The First Sovereign of Ash
+- Unmade
+- Eldritch Exorcist
+- Hail the Curtainbreaker
+- The Rise of Ashborn
+- Realm of Monsters
+- Time Looped
+- Practicing Death
+- My Wife, the Cultivator
+- Everrain Reincarnation
+- Ten Thousand Tragedies
+- Ten Thousand Fleets
+- Noble, Scholar, Mage
+- Prophecy Approved Companion
+- Arcane Chef
+- Throne of Time
+- Gifted
+- Dungeon Inc
+- Secret Agent in Another World
+- Wretch by Emilsola
+- Sleight of Hand
+- A Practical Guide to Evil
+- The Pariah
+- Two World Traders
+- Science Against Sorcery
+- Noble Arcana
+- A Son of the Dragon
+- Seroth: Laws Beyond Magic
+- Unlit - Vol. I of The Flame and Echo Saga
+- The Duke's Decision
+- The Skill Broker
+- The Dead Arrive At Dawn
+- Back & Forth
+- BLOOD AND REALMS
+- AK - The Alchemy Kingdom
+- We are Void
+- Thy Maker
+- Iron Hoof Requiem
+- The Lost Deaths
+- The Dungeon Child
+- Lock and Key
+- Wick
+- The Warcrowned
+- Super Supportive
+- The Last Orellen
+- The Soulstealer’s War
+- The Call of the Hollow Men
+- The Path of Ascension
+- Ave Xia Rem Y
+- Pale Lights
+- Elydes
+- The Heavens Shall Fall
+- Endurance Mage
+- Tyrants of Earth
+- Revolt Against the Heavens
+- God of Trash
+- Agony
+- Broke But Broken
+- Raziel
+- Competition Combatant
+- Solborn: The Eternal Kaiser
+- Hycadia
+- Tower Rivals
+- A Soldier’s Life
+- Sky Pride
+- Sublight Drive
+- Dungeon of Knowledge
+- Beastforged Bond
+- Spire’s Spite
+- Propagate
+- Broken Soul
+- Second Life as a Soldier
+- Runeblade
+- New Game / Reborn as a Reluctant Demon Lord
+- O Negative
+- Lord of the Mysteries
+- Licanius
+- Two Names, One Face
+- Mark of the Fool
+- Dreamer’s Throne
+- Academy’s Undercover Professor
+- Assassin’s Apprentice
+- The Thief / The Queen’s Thief
+- Inda
+- Transformation
+- The Tainted Cup
+- Foreigner
+- The Curse of Chalion
+- The Witness for the Dead
+- The Long Price Quartet
+- The Folding Knife
+- The Realm of the Elderlings
+- Sun Eater
+- Covenant of Steel
+- Lighthouse Duet
+- Rai-Kirah
+- Vagrant
+- Acts of Caine
+- The Black Company
+
+## Status notes worth preserving
+- The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
+- Manifold of Aeons — went on hiatus in Aug 2026.
+- Ten Thousand Tragedies — excluded because Royal Road marked STUB.
+- Rising From the Abyss — inactive.
