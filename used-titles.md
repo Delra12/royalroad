@@ -19,6 +19,10 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Bastion
 - Book of the Dead (RinoZ)
 - Weirkey Chronicles
+- Re:ZERO — user strongly likes the repeated catastrophic failure loops / information gain, but dislikes the anime-trope-heavy presentation.
+
+## Read but not the target
+- The Hedge Wizard — user has read it and thought it was a decent story, but it is not what they are currently looking for.
 
 ## Explicit dislikes / rejections / poor fits
 - Dominion of Thorns
@@ -37,6 +41,11 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - The Lost Mortal's Endless Deaths — too explicitly focused on dying/farming powers and levels; poor fit for meaningful-failure criterion
 - Minute Mage — mixed fit; critical reviews describe plot armor/solutions arriving within the available reset window, weaker world/character depth, and power-fantasy drift
 - The Menocht Loop — loop is mostly front-loaded; later story is more aftermath/politics, and reviews specifically note the loop stops functioning as the core repeated-failure mechanic
+- Loopshard — user disliked the system-apocalypse/roguelite setting; wants medieval or medieval-adjacent fantasy as the main setting.
+- Duke of Eternal Night — surfaced Sept 2026; rejected because death directly grants permanent stat upgrades/abilities, too close to death-as-XP.
+- God's Loop: Dying Endlessly in Search of a Perfect Ending — inactive.
+- Echoes of the First Error — hiatus.
+- RETURN BY DEATH (Devil Lord #497) — inactive and only a handful of chapters.
 
 ## Previously discussed / recommended / searched
 - Teren Marr, Again
@@ -157,6 +166,16 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - The Black Company
 - Blessed Time
 - Loopshard
+- Re:ZERO
+- The Hedge Wizard
+- Codex Alera
+- The Rage of Dragons
+- Art of the Adept
+- The Stubborn Skill-Grinder in a Time Loop
+- The Jester of Apocalypse
+- Player 0.4 [You have died.] [Reset in progress.]
+- The Skeleton Soldier Failed to Defend the Dungeon
+- Master of the Loop
 
 ## Status notes worth preserving
 - The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
@@ -164,4 +183,7 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Ten Thousand Tragedies — excluded because Royal Road marked STUB.
 - Rising From the Abyss — inactive.
 - Thousandth Death's the Charm — on hiatus as of Sept 2026.
-- Loopshard — ongoing in Sept 2026 with 243 chapters; regular updates and next chapter scheduled.
+- Loopshard — ongoing in Sept 2026 with 243 chapters; regular updates, but setting is a hard mismatch.
+- Player 0.4 — ongoing Sept 2026, ~290 chapters, weekly releases. Strong candidate from current search.
+- The Skeleton Soldier Failed to Defend the Dungeon — licensed English translation on Wuxiaworld, ~401 chapters available as of Sept 2026, release rate listed as 7 chapters/week. Strong structural candidate, but translated Korean/system presentation is a caveat.
+- Master of the Loop — complete at 210 chapters; early fit is decent, but reviews warn that later it spends a very long stretch in one loop and shifts toward OP/action/self-reflection rather than sustained failure-loop problem solving.
