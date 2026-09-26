@@ -25,6 +25,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Side characters should have independent goals and should not exist only to react to the MC.
 - Long-term rivals/peers who can keep pace with or surpass the MC are a major positive.
 - Romance should be light or secondary.
+- Re:ZERO is an important structural reference point: the user strongly likes its repeated catastrophic failure loops, where the MC can genuinely lose, die, misunderstand situations, and gain information across attempts. The main negative is the anime/trope-heavy presentation. Ideal recommendations preserve the Re:ZERO-style failure-loop structure while using a more grounded medieval-fantasy tone.
 
 ## Strong positive examples
 - The Hundred Reigns / Hundred Reigns: especially valued for repeated losses/failures, looping freedom to lose, layered world discovery, changing outcomes, and learning from failed attempts.
@@ -33,6 +34,7 @@ This repository is the source of truth for future recommendation searches. Check
 - RE: Monarch.
 - Mage of Shimmer Mountain.
 - Loopbreaker.
+- Re:ZERO: strong positive specifically for repeated catastrophic failure loops and information gain; anime-trope-heavy presentation is a negative.
 - Cradle: benchmark for earned progression and relevant rivals/peers.
 - Jackal Among Snakes.
 - Saving the School Would Have Been Easier as a Cafeteria Worker.
@@ -56,6 +58,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Protagonist becoming the only relevant young fighter.
 - Heavily game-like systems when the system overwhelms story/character/mystery.
 - Modern/system-apocalypse/roguelite setting as the main setting when a medieval fantasy world is available.
+- Strong anime/light-novel trope presentation, especially exaggerated reactions, fanservice, repetitive comedic beats, or archetypal waifu/harem characterization.
 
 ## Search procedure
 1. Check all repo notes before surfacing a title.
@@ -65,5 +68,6 @@ This repository is the source of truth for future recommendation searches. Check
 5. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
 6. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
 7. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
-8. Call out release cadence and status.
-9. If a title is only a superficial fit, do not recommend it just to fill space.
+8. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
+9. Call out release cadence and status.
+10. If a title is only a superficial fit, do not recommend it just to fill space.
