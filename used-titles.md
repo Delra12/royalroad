@@ -33,6 +33,10 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Mage Errant
 - DIE. RESPAWN. REPEAT. — death becomes XP/power grinding rather than meaningful failure
 - Harker — prior recommendation was unverified/mistaken; do not resurface as if established
+- Thousandth Death's the Charm — hiatus as of Sept 2026
+- The Lost Mortal's Endless Deaths — too explicitly focused on dying/farming powers and levels; poor fit for meaningful-failure criterion
+- Minute Mage — mixed fit; critical reviews describe plot armor/solutions arriving within the available reset window, weaker world/character depth, and power-fantasy drift
+- The Menocht Loop — loop is mostly front-loaded; later story is more aftermath/politics, and reviews specifically note the loop stops functioning as the core repeated-failure mechanic
 
 ## Previously discussed / recommended / searched
 - Teren Marr, Again
@@ -151,9 +155,13 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Vagrant
 - Acts of Caine
 - The Black Company
+- Blessed Time
+- Loopshard
 
 ## Status notes worth preserving
 - The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
 - Manifold of Aeons — went on hiatus in Aug 2026.
 - Ten Thousand Tragedies — excluded because Royal Road marked STUB.
 - Rising From the Abyss — inactive.
+- Thousandth Death's the Charm — on hiatus as of Sept 2026.
+- Loopshard — ongoing in Sept 2026 with 243 chapters; regular updates and next chapter scheduled.
