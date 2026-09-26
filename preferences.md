@@ -3,7 +3,7 @@
 This repository is the source of truth for future recommendation searches. Check these notes before recommending anything.
 
 ## Hard constraints
-- Male main character only unless the user explicitly asks otherwise.
+- Human male main character only unless the user explicitly asks otherwise. Nonhuman protagonists (skeletons, monsters, etc.) are a hard mismatch.
 - Avoid recommending titles already listed in the repo as recommended, discussed, rejected, read, or otherwise used unless explicitly revisiting them.
 - Avoid hiatus/abandoned/inactive stories. Royal Road hiatus status is a hard disqualifier unless the user explicitly asks to revisit one.
 - Prefer active stories with a meaningful backlog and reasonably frequent release cadence.
@@ -47,6 +47,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Weirkey Chronicles.
 
 ## Negative signals
+- Nonhuman main character.
 - Obvious chosen-one framing from the opening.
 - Immediate legendary bloodline / secretly god-tier trash skill / everyone instantly recognizing the MC as special.
 - Death loops used mainly as XP farming instead of meaningful failure and learning.
@@ -64,10 +65,11 @@ This repository is the source of truth for future recommendation searches. Check
 1. Check all repo notes before surfacing a title.
 2. Aggressively deduplicate.
 3. Verify current activity/status.
-4. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
-5. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
-6. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
-7. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
-8. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
-9. Call out release cadence and status.
-10. If a title is only a superficial fit, do not recommend it just to fill space.
+4. Confirm the protagonist is a human male before recommending.
+5. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
+6. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
+7. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
+8. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
+9. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
+10. Call out release cadence and status.
+11. If a title is only a superficial fit, do not recommend it just to fill space.
