@@ -1,6 +1,6 @@
 # Used / Previously Discussed Titles
 
-Treat every title in this file as already used. Do not recommend again unless explicitly revisiting it.
+Treat every title in this file as already used. Do not recommend again unless explicitly revisiting them.
 
 ## Read / liked / positive reference points
 - Mother of Learning
@@ -180,6 +180,9 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Godless Sword
 - Fallen Mage Regressor
 - Escape Artist [A Final Boss Retirement LitRPG]
+- Hallowed Sabres [Medieval Military Fantasy Mystery]
+- Blackflame Mage
+- The Hundred-Year Map [Xianxia, Progression Fantasy]
 
 ## Status notes worth preserving
 - The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
@@ -192,5 +195,7 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - The Skeleton Soldier Failed to Defend the Dungeon — nonhuman MC; hard mismatch.
 - Master of the Loop — complete at 210 chapters; early fit is decent, but reviews warn that later it spends a very long stretch in one loop and shifts away from sustained failure-loop problem solving.
 - Godless Sword — ongoing Sept 2026, 47 chapters / ~511 pages, roughly M-W-F cadence. Re-evaluated after removing the mistaken blanket anti-death-progression filter.
-- Fallen Mage Regressor — ongoing Sept 2026, 123 chapters / ~1,157 pages, M-F cadence.
+- Fallen Mage Regressor — user rejected as AI writing; do not resurface.
 - Escape Artist — ongoing Sept 2026, ~40 chapters / ~350 pages, daily launch cadence; loop history is mostly backstory to the current attempt rather than repeated on-page looping.
+- Blackflame Mage — ongoing Sept 2026, 150 chapters / ~2,203 pages, five chapters per week; single regression, not repeated looping.
+- The Hundred-Year Map — ongoing Sept 2026, 74 chapters / ~634 pages; daily through chapter 60 then four chapters/week; cultivation/xianxia rather than medieval fantasy.
