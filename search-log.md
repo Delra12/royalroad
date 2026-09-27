@@ -105,3 +105,20 @@ No new title survived strongly enough to recommend in this pass. Do not pad futu
 - **The Great Tapestry** — active epic fantasy with politics, mystery, war, and several independent factions, but it is explicitly a multiple-lead story including female leads and prominent romance. Does not satisfy the user's male-MC-only preference cleanly.
 - **Every Admission Is Forever** — interesting low-fantasy/ruling-class/secret-identity premise, but far too new/thin to judge or recommend yet.
 - Current Royal Road time-loop search results continue to be dominated by already-used titles, wrong-setting modern/tower/apocalypse stories, female/nonhuman leads, explicit AI-assisted stories, hiatus/inactive works, or harem-heavy/comedy-first options.
+
+## 2026-09-27 — further Royal Road loop/regression search
+
+### Search conclusion
+No new start-now recommendation survived this pass.
+
+### Promising but far too new to recommend
+- **The Last Save** by MirzaWriter — active Royal Road original, human male MC, high-fantasy hunter setting, time-loop/save mechanic, mystery-heavy premise involving inconsistent timelines and future knowledge becoming unreliable. Opening chapters were inspected and the prose reads clean and grounded rather than obviously AI-flavored. However, it had only 3 chapters / ~24 pages at discovery, literally launched the same day. Do not recommend yet; recheck only after it has accumulated a meaningful backlog and reader feedback.
+- **THE BOY WHO DIED** by Abhayudhay — active Royal Road original, human male regression protagonist, high-fantasy/noble-family mystery premise with an altered future and an adversarial memory/knowledge angle. Only 4 chapters / ~26 pages and launched about a day before discovery. Far too early to evaluate; do not recommend yet.
+- **I Returned to Ruin Them** — newly launched male noble regressor in high fantasy with changing future/political revenge framing. Too new/thin to judge, and the premise leans toward straightforward revenge/foreknowledge dominance; hold rather than recommend.
+
+### Other discarded findings
+- **Magic System, Second Chance?** — INACTIVE; additionally opening/reviews show gamer-meta/anime-webnovel tone and awkward prose concerns.
+- **Hidden Existence Guidebook** — technically ongoing but is an experimental/meta guide/cipher project rather than the kind of character-driven fantasy narrative the user wants.
+- **Evocaier Chronicle** — substantial active backlog and mystery/time-travel elements, but heavy mecha/magitech/soft-sci-fi framing and broader ensemble structure make it a weak setting fit.
+- **The Make-Believe King**, **The Seers**, **OATHBREAKER**, and similar newly launched medieval-fantasy titles were too young/thin to evaluate against the user's prose, failure, and character-dynamics requirements.
+- Older attractive results continued to fail due to STUB/HIATUS/INACTIVE status or prior dedupe.
