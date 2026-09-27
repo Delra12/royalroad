@@ -18,7 +18,8 @@ This repository is the source of truth for future recommendation searches. Check
 - The MC can eventually become extremely powerful. The important thing is that he can still lose.
 - Repeated failure is a major positive: the MC can get outplayed, lose fights, fail objectives, make bad decisions, lose people, or choose the wrong approach.
 - Time loops are especially attractive because death can be a legitimate loss/reset instead of something the story must avoid.
-- Best kind of failure: the MC gains information, understanding, relationship knowledge, or strategic insight rather than just an automatic power boost.
+- The user does NOT have a blanket objection to death granting XP, stats, skills, or other progression. Do not exclude a story merely because death contributes to power growth.
+- Best kind of failure often includes information, understanding, relationship knowledge, or strategic insight, but mechanical progression from death is allowed too.
 - Prefer stories where the question is genuinely “Can he win?” rather than always “How will he win?”
 - Prefer slow/earned progression with setbacks, consequences, and non-instant power.
 - Strong preference for mystery, hidden histories/rules, large worlds worth uncovering, recurring characters with hidden motives, politics, noble houses, factions with independent agendas, academy/institutional settings, secret identities, reputation pressure, and worldbuilding that unlocks in layers.
@@ -54,7 +55,6 @@ This repository is the source of truth for future recommendation searches. Check
 - Translated Asian webnovel / fan-translation / MTL dependency.
 - Obvious chosen-one framing from the opening.
 - Immediate legendary bloodline / secretly god-tier trash skill / everyone instantly recognizing the MC as special.
-- Death loops used mainly as XP farming instead of meaningful failure and learning.
 - MC loses once, then immediately returns so much stronger that the same threat can never matter again.
 - Generic dungeon/stat grinding.
 - Constant snark/cringe.
@@ -77,6 +77,6 @@ This repository is the source of truth for future recommendation searches. Check
 9. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
 10. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
 11. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
-12. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
+12. Do not reject a story merely because death grants XP, stats, skills, or other progression. Evaluate whether the overall story still has meaningful failures, tension, discovery, and consequences.
 13. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
 14. If a title is only a superficial fit, do not recommend it just to fill space.
