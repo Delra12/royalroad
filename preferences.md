@@ -12,6 +12,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Avoid generic progression sludge, stat/dungeon grinding that replaces plot, comedy-first stories, effortless domination, harem-heavy stories, romance-heavy stories, and AI-flavored/repetitive prose.
 - Strong setting preference: medieval or medieval-adjacent fantasy should be the main/start setting. Other planes, realms, or worlds are fine later, but modern Earth, system-apocalypse, tower/roguelite, sci-fi-first, or contemporary settings are poor fits unless explicitly requested.
 - No translated Korean/Japanese/Chinese webnovels. Do not recommend works whose usable English version depends on fan translation, machine translation, or unofficial translation. Prefer works originally written and published in English unless the user explicitly asks otherwise.
+- STRICT NO-SPOILER RULE: recommendation writeups must not reveal future deaths, exact death/loop counts, arc outcomes, betrayals, hidden identities, relationship turns, major discoveries, boss/event results, later powers, later locations, or any specific plot event beyond what is evident from the public premise and opening setup. Do not use later-story specifics as evidence in the user-facing answer. If later reviews/chapters are inspected internally to verify fit, summarize only at a high level (for example: 'failure remains meaningful later') without revealing what happens.
 
 ## Core taste
 - Genuine struggle matters more than whether the MC is weak or OP.
@@ -78,5 +79,6 @@ This repository is the source of truth for future recommendation searches. Check
 10. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
 11. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
 12. Do not reject a story merely because death grants XP, stats, skills, or other progression. Evaluate whether the overall story still has meaningful failures, tension, discovery, and consequences.
-13. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
-14. If a title is only a superficial fit, do not recommend it just to fill space.
+13. Apply the strict no-spoiler rule to every recommendation. User-facing evidence should come from premise/opening chapters or spoiler-free high-level observations only; never reveal specific later events just to prove fit.
+14. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
+15. If a title is only a superficial fit, do not recommend it just to fill space.
