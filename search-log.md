@@ -44,3 +44,26 @@ Time-loop stories are especially strong because death can function as a real fai
 
 ### Silently discarded during this search
 Several finds failed the current rules due to hiatus/inactive status, wrong setting, female/nonhuman MC, or existing dedupe. Do not surface them in user-facing recommendations.
+
+## 2026-09-27 — anti-AI follow-up search
+
+### New user feedback
+- **Fallen Mage Regressor** is rejected by the user as AI writing. Do not resurface it.
+- The blurb/setup line about the academy's top prodigy already knowing the F-grade-core MC is her equal also triggered a strong negative reaction. Early elite/prodigy recognition of the supposedly weak MC's hidden greatness is now a warning sign.
+
+### Silently excluded
+- **Loop of the Fallen Scholar** — completed but explicitly marked AI-Assisted on Royal Road; author also confirms AI assistance. Hard reject under current anti-AI preference.
+- **Loopbound: Death Reversal** — premise was promising, but current Royal Road status is hiatus, so silently excluded.
+- **Bodyguard to the Future Demon Queen** — multiple current reviews flag AI-like/AI-assisted prose and romance is prominent; not suitable.
+- Other finds were discarded for wrong setting, female/nonhuman lead, too little backlog, AI warning, or prior dedupe.
+
+### New wildcard: Hallowed Sabres [Medieval Military Fantasy Mystery]
+- Royal Road original, **COMPLETED**, 72 chapters / ~820 pages.
+- Two primary human male leads: a young soldier and an older commander/general.
+- Strong match for the non-loop side of the user's taste: war between fantasy nations, political landscape, conspiracy, hidden history/ancient knowledge, multiple independent actors, and a larger mystery that unfolds gradually rather than centering the entire world on one protagonist.
+- Royal Road review specifically praises the complex political landscape and the process of gradually piecing together the larger puzzle.
+- Major caveat: despite the 'medieval military fantasy' label, it is really **sci-fantasy/magitech** in places (Afterburners, jets/portals, machinery). This may be too far from the user's desired medieval atmosphere.
+- No time loop. Treat as a wildcard only, not a replacement for the primary loop target.
+
+### Search conclusion
+No new active/completed, non-AI, Royal-Road-only time-loop title was found in this pass that beats or clearly adds to the already-used pool. Hallowed Sabres is the only new title worth surfacing, and only as a non-loop wildcard with a significant magitech caveat.
