@@ -4,11 +4,12 @@ This repository is the source of truth for future recommendation searches. Check
 
 ## Hard constraints
 - Human male main character only unless the user explicitly asks otherwise. Nonhuman protagonists (skeletons, monsters, etc.) are a hard mismatch.
+- Royal Road only unless the user explicitly asks to broaden the search.
+- Surface only ACTIVE or COMPLETED stories. Do not mention inactive, hiatus, abandoned, stubbed, or otherwise dead stories at all in recommendation results.
+- Completed stories are fully acceptable and should be treated as equally valid as active stories.
 - Avoid recommending titles already listed in the repo as recommended, discussed, rejected, read, or otherwise used unless explicitly revisiting them.
-- Avoid hiatus/abandoned/inactive stories. Royal Road hiatus status is a hard disqualifier unless the user explicitly asks to revisit one.
-- Prefer active stories with a meaningful backlog and reasonably frequent release cadence.
+- Prefer active stories with a meaningful backlog and reasonably frequent release cadence; completed stories need no cadence warning.
 - Avoid generic progression sludge, stat/dungeon grinding that replaces plot, comedy-first stories, effortless domination, harem-heavy stories, romance-heavy stories, and AI-flavored/repetitive prose.
-- Do not assume the user wants Royal Road only anymore. Search beyond Royal Road when useful, but still favor web serials/progression/speculative fiction with the right fit.
 - Strong setting preference: medieval or medieval-adjacent fantasy should be the main/start setting. Other planes, realms, or worlds are fine later, but modern Earth, system-apocalypse, tower/roguelite, sci-fi-first, or contemporary settings are poor fits unless explicitly requested.
 - No translated Korean/Japanese/Chinese webnovels. Do not recommend works whose usable English version depends on fan translation, machine translation, or unofficial translation. Prefer works originally written and published in English unless the user explicitly asks otherwise.
 
@@ -49,6 +50,7 @@ This repository is the source of truth for future recommendation searches. Check
 
 ## Negative signals
 - Nonhuman main character.
+- Inactive, hiatus, abandoned, or stubbed Royal Road story.
 - Translated Asian webnovel / fan-translation / MTL dependency.
 - Obvious chosen-one framing from the opening.
 - Immediate legendary bloodline / secretly god-tier trash skill / everyone instantly recognizing the MC as special.
@@ -65,14 +67,16 @@ This repository is the source of truth for future recommendation searches. Check
 
 ## Search procedure
 1. Check all repo notes before surfacing a title.
-2. Aggressively deduplicate.
-3. Verify current activity/status.
-4. Confirm the protagonist is a human male before recommending.
-5. Confirm the work is natively available in English and does not depend on fan/MTL translation.
-6. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
-7. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
-8. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
-9. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
-10. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
-11. Call out release cadence and status.
-12. If a title is only a superficial fit, do not recommend it just to fill space.
+2. Search Royal Road only unless the user explicitly says otherwise.
+3. Aggressively deduplicate.
+4. Verify status before any deeper evaluation. If a story is inactive, hiatus, abandoned, stubbed, or otherwise unavailable/dead, drop it silently and do not mention it to the user.
+5. Accept ACTIVE and COMPLETED stories. Completed is not a negative.
+6. Confirm the protagonist is a human male before recommending.
+7. Confirm the work is natively available in English and does not depend on fan/MTL translation.
+8. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
+9. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
+10. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
+11. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
+12. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
+13. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
+14. If a title is only a superficial fit, do not recommend it just to fill space.
