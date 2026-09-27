@@ -92,3 +92,16 @@ No new active/completed, non-AI, Royal-Road-only time-loop title was found in th
 - Female/nonhuman MCs.
 - I Tricked a God — opening premise leans hard into special soul mutation / gods-desire-him / extraordinary destiny tropes that conflict with the user's dislike of immediately telegraphed exceptionalism.
 - Other modern/tower/urban regressors and obvious harem-heavy options.
+
+## 2026-09-27 — additional deep Royal Road search
+
+### Search conclusion
+No new title survived strongly enough to recommend in this pass. Do not pad future searches by resurfacing the weak finds below.
+
+### Silently discarded / researched
+- **The Eternal Regressor** — Royal Road labels it ONGOING, but the actual story has only 10 story chapters from ~16 months ago; the only recent post is an author announcement for a different story. Treat as effectively inactive for this user's purposes. It also uses a modern hunter/dungeon megacity setup rather than the desired medieval-fantasy home setting.
+- **From Londoner To Lord** — technically a strong medieval/nobility/kingdom-building fit with a huge active backlog, but current reviews repeatedly flag glacial pacing, repetitive/robotic dialogue, excessive reiteration, and an 'MC can do no wrong' dynamic where other characters fold too easily. Poor fit for the user's anti-AI-flavored prose and desire for independent characters who can push back.
+- **I Regress if the Villainess Dies!** — active and technically has a male regressor with political intrigue, but the otome/villainess framing and prominent multi-heroine slow-burn romance push it toward the exact anime/light-novel presentation the user usually dislikes. Do not prioritize.
+- **The Great Tapestry** — active epic fantasy with politics, mystery, war, and several independent factions, but it is explicitly a multiple-lead story including female leads and prominent romance. Does not satisfy the user's male-MC-only preference cleanly.
+- **Every Admission Is Forever** — interesting low-fantasy/ruling-class/secret-identity premise, but far too new/thin to judge or recommend yet.
+- Current Royal Road time-loop search results continue to be dominated by already-used titles, wrong-setting modern/tower/apocalypse stories, female/nonhuman leads, explicit AI-assisted stories, hiatus/inactive works, or harem-heavy/comedy-first options.
