@@ -67,3 +67,28 @@ Several finds failed the current rules due to hiatus/inactive status, wrong sett
 
 ### Search conclusion
 No new active/completed, non-AI, Royal-Road-only time-loop title was found in this pass that beats or clearly adds to the already-used pool. Hallowed Sabres is the only new title worth surfacing, and only as a non-loop wildcard with a significant magitech caveat.
+
+## 2026-09-27 — deeper Royal Road search
+
+### Candidate: Blackflame Mage
+- Royal Road original, ongoing, human male MC.
+- As of Sept 27, 2026: ~150 chapters / ~2,203 pages, posting five days per week.
+- Single regression rather than repeated looping: an experienced healer/saint returns to the beginning stripped back to level one.
+- Strong evidence from current reviews that prior knowledge does not make the new timeline deterministic; the MC makes meaningful mistakes, changes approach, and other characters behave like independent people rather than automatically following him.
+- Reviews specifically praise the supporting cast, worldbuilding, mysteries, and some court/political intrigue.
+- Opening chapter was inspected. Prose is straightforward, human-written-feeling genre prose; no Royal Road AI warning surfaced.
+- Caveats for this user: it is LitRPG/isekai, includes dungeon progression and magitech, and has a romance subplot / competing love-interest tag. It is not as purely medieval or as loop-heavy as the ideal target.
+
+### Candidate: The Hundred-Year Map [Xianxia, Progression Fantasy]
+- Royal Road original, ongoing, human male MC.
+- As of Sept 27, 2026: 74 chapters / ~634 pages; daily through chapter 60, then four chapters/week.
+- Single regression with a particularly relevant twist: another regressor remembers a different future, so the MC's remembered 'map' of treasures/events becomes increasingly unreliable.
+- This creates a strong information-progression dynamic: foreknowledge is useful but decays, the protagonist can be out-schemed, and he must build durable relationships/resources rather than simply vacuuming up known advantages.
+- Opening chapter was inspected; prose is sharp and compressed rather than obviously AI-flavored. No Royal Road AI warning surfaced.
+- Main caveat: cultivation/xianxia setting rather than medieval European fantasy. Treat as a structural wildcard, not a setting-perfect recommendation.
+
+### Silently discarded
+- Current hiatus/inactive/stubbed titles.
+- Female/nonhuman MCs.
+- I Tricked a God — opening premise leans hard into special soul mutation / gods-desire-him / extraordinary destiny tropes that conflict with the user's dislike of immediately telegraphed exceptionalism.
+- Other modern/tower/urban regressors and obvious harem-heavy options.
