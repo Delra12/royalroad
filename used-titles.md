@@ -35,14 +35,14 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - 12 Miles Below — not interested
 - The Perfect Run — lost interest after a while
 - Mage Errant
-- DIE. RESPAWN. REPEAT. — death becomes XP/power grinding rather than meaningful failure
+- DIE. RESPAWN. REPEAT. — poor fit in that search; do not infer a blanket dislike of death-based progression from this.
 - Harker — prior recommendation was unverified/mistaken; do not resurface as if established
 - Thousandth Death's the Charm — hiatus as of Sept 2026
-- The Lost Mortal's Endless Deaths — too explicitly focused on dying/farming powers and levels; poor fit for meaningful-failure criterion
+- The Lost Mortal's Endless Deaths — poor fit in prior search
 - Minute Mage — mixed fit; critical reviews describe plot armor/solutions arriving within the available reset window, weaker world/character depth, and power-fantasy drift
 - The Menocht Loop — loop is mostly front-loaded; later story is more aftermath/politics, and reviews specifically note the loop stops functioning as the core repeated-failure mechanic
 - Loopshard — user disliked the system-apocalypse/roguelite setting; wants medieval or medieval-adjacent fantasy as the main setting.
-- Duke of Eternal Night — surfaced Sept 2026; rejected because death directly grants permanent stat upgrades/abilities, too close to death-as-XP.
+- Duke of Eternal Night — surfaced Sept 2026; prior rejection was based too heavily on death-as-progression and should not be generalized.
 - God's Loop: Dying Endlessly in Search of a Perfect Ending — inactive.
 - Echoes of the First Error — hiatus.
 - RETURN BY DEATH (Devil Lord #497) — inactive and only a handful of chapters.
@@ -176,6 +176,10 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Player 0.4 [You have died.] [Reset in progress.]
 - The Skeleton Soldier Failed to Defend the Dungeon
 - Master of the Loop
+- Blood Mage Assassin
+- Godless Sword
+- Fallen Mage Regressor
+- Escape Artist [A Final Boss Retirement LitRPG]
 
 ## Status notes worth preserving
 - The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
@@ -184,6 +188,9 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Rising From the Abyss — inactive.
 - Thousandth Death's the Charm — on hiatus as of Sept 2026.
 - Loopshard — ongoing in Sept 2026 with 243 chapters; regular updates, but setting is a hard mismatch.
-- Player 0.4 — ongoing Sept 2026, ~290 chapters, weekly releases. Strong candidate from current search.
-- The Skeleton Soldier Failed to Defend the Dungeon — licensed English translation on Wuxiaworld, ~401 chapters available as of Sept 2026, release rate listed as 7 chapters/week. Strong structural candidate, but translated Korean/system presentation is a caveat.
-- Master of the Loop — complete at 210 chapters; early fit is decent, but reviews warn that later it spends a very long stretch in one loop and shifts toward OP/action/self-reflection rather than sustained failure-loop problem solving.
+- Player 0.4 — ongoing Sept 2026, ~290 chapters, weekly releases; user rejected.
+- The Skeleton Soldier Failed to Defend the Dungeon — nonhuman MC; hard mismatch.
+- Master of the Loop — complete at 210 chapters; early fit is decent, but reviews warn that later it spends a very long stretch in one loop and shifts away from sustained failure-loop problem solving.
+- Godless Sword — ongoing Sept 2026, 47 chapters / ~511 pages, roughly M-W-F cadence. Re-evaluated after removing the mistaken blanket anti-death-progression filter.
+- Fallen Mage Regressor — ongoing Sept 2026, 123 chapters / ~1,157 pages, M-F cadence.
+- Escape Artist — ongoing Sept 2026, ~40 chapters / ~350 pages, daily launch cadence; loop history is mostly backstory to the current attempt rather than repeated on-page looping.
