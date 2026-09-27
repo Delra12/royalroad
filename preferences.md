@@ -54,8 +54,10 @@ This repository is the source of truth for future recommendation searches. Check
 - Nonhuman main character.
 - Inactive, hiatus, abandoned, or stubbed Royal Road story.
 - Translated Asian webnovel / fan-translation / MTL dependency.
+- AI-Assisted or AI-Generated Royal Road warning. Also avoid prose that strongly reads as generic/repetitive AI writing when the opening sample supports that concern.
 - Obvious chosen-one framing from the opening.
 - Immediate legendary bloodline / secretly god-tier trash skill / everyone instantly recognizing the MC as special.
+- A top prodigy, elite, genius, or other high-status character immediately recognizing the supposedly weak/low-ranked MC as secretly their equal or exceptional near the opening. The user finds this kind of instant validation cringe; recognition should generally be earned or delayed.
 - MC loses once, then immediately returns so much stronger that the same threat can never matter again.
 - Generic dungeon/stat grinding.
 - Constant snark/cringe.
@@ -74,11 +76,12 @@ This repository is the source of truth for future recommendation searches. Check
 5. Accept ACTIVE and COMPLETED stories. Completed is not a negative.
 6. Confirm the protagonist is a human male before recommending.
 7. Confirm the work is natively available in English and does not depend on fan/MTL translation.
-8. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
-9. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
-10. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
-11. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
-12. Do not reject a story merely because death grants XP, stats, skills, or other progression. Evaluate whether the overall story still has meaningful failures, tension, discovery, and consequences.
-13. Apply the strict no-spoiler rule to every recommendation. User-facing evidence should come from premise/opening chapters or spoiler-free high-level observations only; never reveal specific later events just to prove fit.
-14. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
-15. If a title is only a superficial fit, do not recommend it just to fill space.
+8. Reject Royal Road stories carrying AI-Assisted or AI-Generated warnings. When credible AI-prose concerns exist without a tag, inspect the opening before recommending.
+9. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
+10. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
+11. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
+12. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
+13. Do not reject a story merely because death grants XP, stats, skills, or other progression. Evaluate whether the overall story still has meaningful failures, tension, discovery, and consequences.
+14. Apply the strict no-spoiler rule to every recommendation. User-facing evidence should come from premise/opening chapters or spoiler-free high-level observations only; never reveal specific later events just to prove fit.
+15. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
+16. If a title is only a superficial fit, do not recommend it just to fill space.
