@@ -10,6 +10,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Avoid generic progression sludge, stat/dungeon grinding that replaces plot, comedy-first stories, effortless domination, harem-heavy stories, romance-heavy stories, and AI-flavored/repetitive prose.
 - Do not assume the user wants Royal Road only anymore. Search beyond Royal Road when useful, but still favor web serials/progression/speculative fiction with the right fit.
 - Strong setting preference: medieval or medieval-adjacent fantasy should be the main/start setting. Other planes, realms, or worlds are fine later, but modern Earth, system-apocalypse, tower/roguelite, sci-fi-first, or contemporary settings are poor fits unless explicitly requested.
+- No translated Korean/Japanese/Chinese webnovels. Do not recommend works whose usable English version depends on fan translation, machine translation, or unofficial translation. Prefer works originally written and published in English unless the user explicitly asks otherwise.
 
 ## Core taste
 - Genuine struggle matters more than whether the MC is weak or OP.
@@ -48,6 +49,7 @@ This repository is the source of truth for future recommendation searches. Check
 
 ## Negative signals
 - Nonhuman main character.
+- Translated Asian webnovel / fan-translation / MTL dependency.
 - Obvious chosen-one framing from the opening.
 - Immediate legendary bloodline / secretly god-tier trash skill / everyone instantly recognizing the MC as special.
 - Death loops used mainly as XP farming instead of meaningful failure and learning.
@@ -66,10 +68,11 @@ This repository is the source of truth for future recommendation searches. Check
 2. Aggressively deduplicate.
 3. Verify current activity/status.
 4. Confirm the protagonist is a human male before recommending.
-5. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
-6. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
-7. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
-8. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
-9. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
-10. Call out release cadence and status.
-11. If a title is only a superficial fit, do not recommend it just to fill space.
+5. Confirm the work is natively available in English and does not depend on fan/MTL translation.
+6. When possible, read enough of the opening chapters to judge prose, dialogue, MC personality, pacing, setup, and obvious tonal/style mismatches instead of relying only on synopsis/tags/reviews.
+7. Explicitly look for evidence that the MC can genuinely lose/fail more than once.
+8. Prefer evidence of information gain, changed approaches, alternate outcomes, faction/political consequences, and recurring characters showing different sides across attempts.
+9. Prefer a medieval/high-fantasy core setting; other realms/planes are acceptable if that remains the narrative home base.
+10. Prefer failure-loop structures closer to Re:ZERO/Hundred Reigns than XP-farming loops, but with a more grounded prose/tone than trope-heavy anime/light novels.
+11. Call out release cadence and status.
+12. If a title is only a superficial fit, do not recommend it just to fill space.
