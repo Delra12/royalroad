@@ -184,6 +184,11 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Blackflame Mage
 - The Hundred-Year Map [Xianxia, Progression Fantasy]
 - Journey to Veresavir [Fantasy LitRPG]
+- Umbra Solis
+- Overdrawn [Progression LitRPG]
+- Paladin of Vengeance
+- Pursuit of Mana
+- Wander West, in Shadow
 
 ## Status notes worth preserving
 - The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
@@ -191,7 +196,7 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Ten Thousand Tragedies — excluded because Royal Road marked STUB.
 - Rising From the Abyss — inactive.
 - Thousandth Death's the Charm — on hiatus as of Sept 2026.
-- Loopshard — ongoing in Sept 2026 with 243 chapters; regular updates, but setting is a hard mismatch.
+- Loopshard — ongoing Sept 2026 with 243 chapters; regular updates, but setting is a hard mismatch.
 - Player 0.4 — ongoing Sept 2026, ~290 chapters, weekly releases; user rejected.
 - The Skeleton Soldier Failed to Defend the Dungeon — nonhuman MC; hard mismatch.
 - Master of the Loop — complete at 210 chapters; early fit is decent, but reviews warn that later it spends a very long stretch in one loop and shifts away from sustained failure-loop problem solving.
