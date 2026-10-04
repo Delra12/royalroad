@@ -183,6 +183,7 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Hallowed Sabres [Medieval Military Fantasy Mystery]
 - Blackflame Mage
 - The Hundred-Year Map [Xianxia, Progression Fantasy]
+- Journey to Veresavir [Fantasy LitRPG]
 
 ## Status notes worth preserving
 - The Skill Broker — Royal Road marked HIATUS as of Sept 2026.
@@ -199,3 +200,4 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Escape Artist — ongoing Sept 2026, ~40 chapters / ~350 pages, daily launch cadence; loop history is mostly backstory to the current attempt rather than repeated on-page looping.
 - Blackflame Mage — ongoing Sept 2026, 150 chapters / ~2,203 pages, five chapters per week; single regression, not repeated looping.
 - The Hundred-Year Map — ongoing Sept 2026, 74 chapters / ~634 pages; daily through chapter 60 then four chapters/week; cultivation/xianxia rather than medieval fantasy.
+- Journey to Veresavir — ongoing Oct 2026, 62 chapters / ~764 pages. User previously dropped early because the initial power setup and praise/reactions felt cringe/glazing. Re-evaluation: three Harmonies are rare but not unique; Path starts Feeble and progression is slow. Later competent characters challenge, train, and outclass Veron rather than universally admiring him. Major structural note: story later reveals a death/reset loop in which Veron retains memories and magical progression; current evidence does not indicate a broad cast of co-loopers.
