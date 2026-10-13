@@ -122,3 +122,13 @@ No new start-now recommendation survived this pass.
 - **Evocaier Chronicle** — substantial active backlog and mystery/time-travel elements, but heavy mecha/magitech/soft-sci-fi framing and broader ensemble structure make it a weak setting fit.
 - **The Make-Believe King**, **The Seers**, **OATHBREAKER**, and similar newly launched medieval-fantasy titles were too young/thin to evaluate against the user's prose, failure, and character-dynamics requirements.
 - Older attractive results continued to fail due to STUB/HIATUS/INACTIVE status or prior dedupe.
+
+
+## 2026-10-13 — strict screening, no new recommendations
+- Checked all repository notes and 19 dated reports, with punctuation/apostrophe-normalized dedupe.
+- Four new active candidates received opening-text screening: A Fallen Angel, Soul Shepherd, Archdruid Alchemist and The Broken Arcanist. None cleared the combined bar. Detailed rejection reasons, sample scope, current status and cadence evidence are in [the report](searches/2026-10-13-strict-screening.md).
+- Pushing Back Inevitability and Asheva failed the status gate and were not evaluated as recommendations.
+- Ar’Kendrithyst and Sovereign’s Silent Path were existing dated-file exclusions despite missing from the central index. Added their spelling aliases centrally.
+- No author was accused of AI use from style alone. No absent AI warning was treated as proof of no AI use.
+- The Broken Arcanist's advertised M/W/F cadence is not supported by the retrieved recent table; retain the gap/irregularity caveat.
+- Outcome: zero recommendations, six new screened/status-excluded titles logged. This was a finite search, not a claim that the whole site's niche is exhausted.
