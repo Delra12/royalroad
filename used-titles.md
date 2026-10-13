@@ -206,3 +206,15 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Blackflame Mage — ongoing Sept 2026, 150 chapters / ~2,203 pages, five chapters per week; single regression, not repeated looping.
 - The Hundred-Year Map — ongoing Sept 2026, 74 chapters / ~634 pages; daily through chapter 60 then four chapters/week; cultivation/xianxia rather than medieval fantasy.
 - Journey to Veresavir — ongoing Oct 2026, 62 chapters / ~764 pages. User previously dropped early because the initial power setup and praise/reactions felt cringe/glazing. Re-evaluation: three Harmonies are rare but not unique; Path starts Feeble and progression is slow. Later competent characters challenge, train, and outclass Veron rather than universally admiring him. Major structural note: story later reveals a death/reset loop in which Veron retains memories and magical progression; current evidence does not indicate a broad cast of co-loopers.
+
+## 2026-10-13 — screened and excluded
+- A Fallen Angel [An Isekai Science Vs Magic Progression Fantasy] — new active candidate rejected after opening samples: genius validation, awkward prose, anime/webnovel tone.
+- Soul Shepherd [LitRPG, Slow-Burn] — new active candidate rejected after chapters 1–3 samples: anime-style companion comedy/embarrassment and repetitive narration.
+- Archdruid Alchemist — new active candidate rejected after chapter 1 sample: comedy-heavy guide, early specialness forecast, afterlife-jungle setting.
+- The Broken Arcanist [Anti-Hero | Necro | Progression LitRPG] — screened, not recommended: snark/system/cultivation emphasis, irregular observed cadence, insufficient proof of repeated consequential personal failure.
+- Pushing Back Inevitability — INACTIVE as retrieved October 13; excluded at status gate.
+- Asheva: A Summoner's Tale — INACTIVE as retrieved October 13; excluded at status gate.
+- Ar’Kendrithyst / Ar'Kendrithyst — already excluded in searches/2026-10-01-setbacks.md; added here for central-index completeness.
+- Sovereign’s Silent Path / Sovereign's Silent Path — already excluded in searches/2026-09-28-setbacks.md; added here for central-index completeness.
+
+Details: [October 13 strict screening](searches/2026-10-13-strict-screening.md). All repository files count for deduplication; normalize apostrophes, punctuation, capitalization and spacing.
