@@ -132,3 +132,10 @@ No new start-now recommendation survived this pass.
 - No author was accused of AI use from style alone. No absent AI warning was treated as proof of no AI use.
 - The Broken Arcanist's advertised M/W/F cadence is not supported by the retrieved recent table; retain the gap/irregularity caveat.
 - Outcome: zero recommendations, six new screened/status-excluded titles logged. This was a finite search, not a claim that the whole site's niche is exhausted.
+
+## 2026-10-17 — explicit non-OP wording
+- Searched author blurbs for not-OP, no rapid escalation, slow power growth and similar promises.
+- One qualified literal match: Kharg's Tale. Talent-validation opening and an OP-peer critical review prevent a strong endorsement.
+- Sovereign's Toll failed the human-body constraint; Vengeful Scribe is an alias of Blood Mage Assassin. Several promising blurbs disclosed AI use or failed status checks.
+- Current status could not be verified for The Yielding Law or The Diary of a Faceless Man; do not assume cached relative dates are current.
+- [Full screening notes](searches/2026-10-17-non-op-wording.md).

@@ -218,3 +218,28 @@ Treat every title in this file as already used. Do not recommend again unless ex
 - Sovereign’s Silent Path / Sovereign's Silent Path — already excluded in searches/2026-09-28-setbacks.md; added here for central-index completeness.
 
 Details: [October 13 strict screening](searches/2026-10-13-strict-screening.md). All repository files count for deduplication; normalize apostrophes, punctuation, capitalization and spacing.
+
+## 2026-10-17 — explicit non-OP wording search
+- Kharg’s Tale / Kharg's Tale — qualified wording match only; slow-growth promises, but opening talent praise and critical OP-peer concern. Active 141 entries, book 4, three/week.
+- The Sovereign’s Toll / The Sovereign's Toll — excluded: reincarnated body is explicitly half-elf in chapter 3.
+- The Yielding Law — hold: current canonical page errors; September snapshots insufficient to verify current activity.
+- Re:Birth / Re:Birth: A Slow Burn LitRPG Mage Regressor — literal not-OP-yet match; imminent October 20 stubbing.
+- The Vengeful Scribe — earlier version/alias of already-used Blood Mage Assassin.
+- The Diary of a Faceless Man — slow-growth wording; Victorian setting, rough opening, current activity unverified.
+- Celestial Card Cultivation — immediate unique limitless-potential framing.
+- Dragonrise — dragon lead.
+- The Tale of Ordinheim — explicit AI-assisted warning.
+- The Arcane Blade [Character-Driven Party LitRPG | Grounded Progression] — explicit AI-assisted warning, multiple lovers.
+- Eldanar’s Chosen / Eldanar's Chosen — explicit AI-assisted warning, semi-hiatus.
+- The Constant — disclosed AI translation, tiny backlog.
+- CounterWeight — thin new system-apocalypse story, not recommended.
+- Sword and Scrolls: An Orderly Blade / Sword and Scrolls : An Orderly Blade — inactive.
+- Rigged — inactive.
+- Silhouettes & Towers — inactive, AI-assisted.
+- Swan Song — inactive.
+- What We Do to Survive — inactive.
+- Fodder — inactive, nonhuman.
+- Barbarian Anomaly — hiatus.
+- Horizon of War — stub.
+
+Details: [October 17 wording search](searches/2026-10-17-non-op-wording.md).
