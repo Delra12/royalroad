@@ -391,3 +391,18 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.
 - Savage Divinity — already screened in dated September28/October21third-pass reports; central alias added.
 
 [Full report](searches/2026-10-21-non-op-wording-06.md).
+
+## 2026-10-21 — broader taste search
+- Zenith of Sorcery — qualified new discovery/worldbuilding pick. Original ongoing42 entries/~972pages, last October12/next targetNovember15, roughly monthly. Extensive opening portions of chapters1–2 screened. Adult human powerful mage, institutional politics and concrete magical limits. Not a loop or established repeated-defeat story; plot/exposition slow. No AI warning; no gay lead evidence, orientation not conclusively verified.
+- The Necromancer's End / The Enchanter's Rise — stub.
+- A Noble, a Faerie, and a Daemon — inactive.
+- The Horned Heresy — dropped, nonhuman.
+- Sinews of War — inactive, time-vampire/post-apocalyptic.
+- The Chronicles of Veledan / The Silver Dragon — active43/~285pages TueFri, landing/reviews only; broad ensemble, prose/exposition concerns, English-original provenance unverified. Not recommended.
+- From History Geek to Crown Prince: Love, Politics and War — inactive, AI-assisted.
+- The Love of a Side Character — inactive.
+- The Second Wren — search-only contemporary school romance/mixed-lead mismatch.
+- Reincarnated, but as Another World's Demon Lord — inactive/nonhuman.
+- Heir of Lorele — already screened October1; central alias added.
+
+[Full report](searches/2026-10-21-broader-taste-search.md).
