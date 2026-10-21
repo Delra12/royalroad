@@ -145,3 +145,8 @@ No new start-now recommendation survived this pass.
 - Explicit slow-burn/no-early-OP promises. Writing caveat: wordy narration summarizes much character interaction; still too young to establish long-term failure pattern.
 - Other new leads failed status, tone, prose or backlog gates. All screened names indexed centrally.
 - [Full report](searches/2026-10-21-non-op-wording.md).
+
+## 2026-10-21 — non-OP wording, second pass
+- No recommendation survived. The Wielder received opening screening but failed prose/tone/exceptionalism fit. Most other literal matches failed status or were duplicates.
+- Indexed screened exclusions and explicitly distinguished search-only unverified leads.
+- [Full report](searches/2026-10-21-non-op-wording-02.md).
