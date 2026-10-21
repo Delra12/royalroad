@@ -370,3 +370,24 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-04.
 - The Salvage Mage — search-only new lead, not fully screened; status unverified.
 
 Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.md).
+
+## 2026-10-21 — non-OP wording, sixth pass
+- The Patient Cultivator — tentative lead, not fully cleared. Original ongoing 47/~358 pages, recent weekday daily cadence. Opening chapters 1 and 3–5 read, chapter 2 extended portions. Incremental research, failed approaches and real costs. Major caveat: off-scale soul stability flagged in chapter 1. Protagonist orientation unconfirmed; no gay evidence found is not confirmation. No AI warning displayed, not certification.
+- Origins of the Summoned Hero: A Story of Wind and Blood — ongoing33/~491pages; opening/chapter2 screened, rough prose/theatrical dialogue.
+- Ascent Chaos and Order / Ascent: Chaos and Order — ongoing8/~83pages on older snapshot; irregular gaps, extended opening screened, insufficient backlog.
+- The Return of the Heavenly Debater — AI-assisted.
+- The Severed Breath — science-fiction-first cryogenic commander/alien premise.
+- The Shattering Point — contemporary Earth, ensemble/soft science-fiction mismatch.
+- The Education of Ali Waly and Pious Jaius / Every Way the Wind Blows — completed first book, mixed girl/boy contemporary school co-leads, poor fit.
+- Tale of Ramiel — completed202/~794pages, repeated hardship but severe prose problems in chapter1.
+- Sainthood: Hunting, Monsters — undead protagonist.
+- Immortal: From Cultivation to Dust — old active label, current activity unverified; immediate lifespan/sign-in advantage, cozy focus.
+- Kaiju City: Tartaruga Town — removed story; only old announcement posts on RR.
+- The Emperor Who Refused To Die — hiatus.
+- Life As E Ranker — hiatus, AI-generated.
+- INTO THE ASHEN VALE — inactive.
+- Verdant Heart Seed — hiatus.
+- Twelve Free Trials — hiatus.
+- Savage Divinity — already screened in dated September28/October21third-pass reports; central alias added.
+
+[Full report](searches/2026-10-21-non-op-wording-06.md).
