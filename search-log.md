@@ -160,3 +160,9 @@ No new start-now recommendation survived this pass.
 ## 2026-10-21 — feedback on A Bright and Shiny Life
 - User said the story had potential but rejected it because the protagonist is gay.
 - Added no gay male protagonists to hard constraints. Do not resurface this title or extend the preference to supporting characters without evidence.
+
+## 2026-10-21 — non-OP wording, fourth pass
+- No recommendation survived. Applied new protagonist orientation filter.
+- Test Summoning: Apocalypse, REN, and The Erased received opening excerpts screening; failed tone, emphasis, or prose fit.
+- Other leads failed status/AI/setting gates. Terminal Fantasy identified in older dated reports and indexed centrally.
+- [Full report](searches/2026-10-21-non-op-wording-04.md).
