@@ -1,5 +1,8 @@
 # 2026-10-21 — Non-OP wording, third pass
 
+## User feedback after recommendation
+User said this had potential but rejected A Bright and Shiny Life because the protagonist is gay. Final disposition: rejected. Added no gay male protagonists to preferences; the screening below is retained as history.
+
 ## Method and outcome
 Read all 26 repository Markdown files before this pass, and checked new names across all files. Searched restrained progression, no sudden power-ups, earned power, no shortcuts, not OP, and power creep. Followed relevant Royal Road recommendation threads. One qualified new lead: A Bright and Shiny Life. No broad claim that the niche is exhausted.
 
