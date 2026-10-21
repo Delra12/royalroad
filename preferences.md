@@ -3,6 +3,7 @@
 This repository is the source of truth for future recommendation searches. Check these notes before recommending anything.
 
 ## Hard constraints
+- No gay male protagonists. User explicitly rejected A Bright and Shiny Life for this reason on October 21, 2026. This constraint concerns the protagonist; do not infer a ban on gay supporting characters.
 - Human male main character only unless the user explicitly asks otherwise. Nonhuman protagonists (skeletons, monsters, etc.) are a hard mismatch.
 - Royal Road only unless the user explicitly asks to broaden the search.
 - Surface only ACTIVE or COMPLETED stories. Do not mention inactive, hiatus, abandoned, stubbed, or otherwise dead stories at all in recommendation results.
