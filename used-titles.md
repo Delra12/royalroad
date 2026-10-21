@@ -262,3 +262,34 @@ Details: [October 17 wording search](searches/2026-10-17-non-op-wording.md).
 - The Toll-Road to Immortality — already excluded in September 28 report; central alias added. Strong cheat artifact concern, not a clean non-OP recommendation.
 
 Details: [October 21 wording search](searches/2026-10-21-non-op-wording.md).
+
+## 2026-10-21 — non-OP wording, second pass
+- The Wielder [Slow Progression Fantasy] — opening prologue and chapters 1–2 screened; active 45 entries/~448 pages, M/F. Rejected for rough prose, stock bullies, junk-disguised legendary sword/exceptional-ability framing. Sword has major viewpoint role.
+- How Not to Die in Magic School (Again) — inactive, AI-assisted.
+- Sins of Solaria — inactive.
+- Kanjaga — The Land Where the Sun Touches — hiatus, AI-assisted.
+- Grafted — hiatus.
+- The Cost of Power: The Seeker’s Lie — hiatus.
+- The Glass Mage — hiatus.
+- The Darkbound Dominion — inactive.
+- Pandora Unchained — stub.
+- Reincarnated as a Noble's Second Son — inactive, AI-generated.
+- Strifeblade Chronicles — nonhuman/monster evolution lead.
+- Grade Zero Alchemist — embedded AI/science exceptionalism contradicts no-cheat language.
+- Path to Redemption: The Cinderreach Accord — old thin backlog, active status unverified.
+- Chapter Zero: The Forbidden Archive — old thin backlog, snark-first; active status unverified.
+- Legacy of a Normal Person in a World of Cultivation — old tiny backlog.
+- GRIMFALL — thin/new, insufficiently verified.
+- The New Guild Master — search-only unverified lead.
+- Reset the Open Source World — search-only unverified lead.
+- Sovereign of Immortals / Root Summit — English provenance unverified, not recommended.
+- Legionnaire Ascendant — inactive.
+- Where Beast Rules — inactive.
+- The Tea Cultivator — inactive, female lead.
+- The Black Song — inactive.
+- No Respawn — inactive.
+- The Absolute Sovereign — hiatus, AI-generated.
+- Immovable Mage — already excluded in September 28 report; central index alias added.
+- Sovereign Harvest / Every Kill Drops Something — already excluded in September 28 report; central aliases added.
+
+Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-02.md).
