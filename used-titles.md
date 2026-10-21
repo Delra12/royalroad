@@ -327,3 +327,29 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-02.
 - The Power of +1 — contemporary business premise.
 
 [Full report](searches/2026-10-21-non-op-wording-03.md).
+
+## 2026-10-21 — non-OP wording, fourth pass
+- Test Summoning: Apocalypse — active 128/~2,032 pages, M/F; opening excerpts of prologue and chapters 1–2 screened. Rejected for meta/comedy/anime references, sexualized beastfolk/slave-maid setup. Strong failure-loop premise but poor tone fit.
+- REN: The Child Who Remembered Home — active label, 18/~197 pages; extended prologue opening and chapters 1–2 excerpts screened. Domestic grief/baby-stage emphasis, verbose narration, insufficient adversarial-setback evidence. M/W/F advertised but latest retrieved epilogue October 4; continuation uncertain.
+- The Erased — active 34/~351 pages, Wed/Sat. First two opening excerpts screened; rough prose, fragmented formatting, anime banter, specialness framing.
+- Ashes Before Dawn — hiatus, AI-assisted.
+- The Grave of Wishes — inactive.
+- Joey's Bizarre Adventures / Joey’s Bizarre Adventures — inactive.
+- The world that did not bend — inactive.
+- Echoes of Wildora: The Cat Who Vanished — inactive, AI-assisted, cat co-lead.
+- A Chronicle of Lies / A Chronicle of Lies—Book 1—Puppeteer — inactive, nonhuman dragon lead.
+- My Class Tree Is Alive and It Hates Me — hiatus.
+- The Waystone Walker — inactive.
+- No Class Found — AI-assisted.
+- Fivefold Academy — female lead, AI-assisted.
+- Reincarnated as a Rune Crafter! / A World of Blood and Shadow / Aetherion Chronicles — hiatus, AI-assisted/generated, harem.
+- Optimizing Your Isekai — inactive.
+- Ormyr — inactive.
+- RIOT IN NEW BATAVIA — search-only modern/punk dark-comedy mismatch.
+- Respawned (Kilgraw, 179256) — search-only old two-entry launch, unverified.
+- Apex Shelf: A Lost-World LitRPG — search-only lost-world/modern-city premise.
+- Corporate Hunter — search-only modern consulting premise.
+- A Modern Mind in Medieval Times — explicit spicy/poly-romance premise.
+- Terminal Fantasy — already screened in September 30 and October 1 reports; central alias added for dedupe.
+
+Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-04.md).
