@@ -139,3 +139,9 @@ No new start-now recommendation survived this pass.
 - Sovereign's Toll failed the human-body constraint; Vengeful Scribe is an alias of Blood Mage Assassin. Several promising blurbs disclosed AI use or failed status checks.
 - Current status could not be verified for The Yielding Law or The Diary of a Faceless Man; do not assume cached relative dates are current.
 - [Full screening notes](searches/2026-10-17-non-op-wording.md).
+
+## 2026-10-21 — continued explicit non-OP wording search
+- New qualified lead: Shadow of the Silver Desert. Original active human male medieval/desert fantasy, 18 entries/~154 pages, Wed/Sun schedule supported by recent releases. Read prologue and chapters 1–2.
+- Explicit slow-burn/no-early-OP promises. Writing caveat: wordy narration summarizes much character interaction; still too young to establish long-term failure pattern.
+- Other new leads failed status, tone, prose or backlog gates. All screened names indexed centrally.
+- [Full report](searches/2026-10-21-non-op-wording.md).
