@@ -180,3 +180,10 @@ No new start-now recommendation survived this pass.
 - Current tree and all 29 Markdown files checked for duplicates. Savage Divinity central alias added from dated reports.
 - Screened Origins, Ascent, and Tale of Ramiel openings; other leads failed AI/protagonist/setting/status gates.
 - [Full report](searches/2026-10-21-non-op-wording-06.md).
+
+## 2026-10-21 — broader taste search
+- User relaxed explicit non-OP marketing wording; search by underlying tastes.
+- All30 Markdown files checked. Zenith of Sorcery is a qualified worldbuilding/discovery pick; do not claim frequent failures, weak-to-strong structure, or fast cadence.
+- Opening portions of first two chapters screened, positive/critical reviews compared. Canonical ongoing page and October12 update override older hiatus snapshots.
+- Logged new exclusions and indexed previously used Heir of Lorele centrally.
+- [Full report](searches/2026-10-21-broader-taste-search.md).
