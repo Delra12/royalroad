@@ -293,3 +293,37 @@ Details: [October 21 wording search](searches/2026-10-21-non-op-wording.md).
 - Sovereign Harvest / Every Kill Drops Something — already excluded in September 28 report; central aliases added.
 
 Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-02.md).
+
+## 2026-10-21 — non-OP wording, third pass
+- A Bright and Shiny Life — qualified new lead. Original active ~183 entries/1,820 pages, every fifth day. Author explicitly says not OP. Read chapters 1–5; tactics, limits, politics/academy premise. Very cruel sacrifice-focused protagonist and quick temporary power boosts are major caveats. Gender Bender tag checked: author says MC does not undergo sex change.
+- Lucid: The Dreamer — inactive, nonhuman/dungeon-core.
+- The Illusion of Heaven — inactive, AI-assisted.
+- At the Crossroads of World — inaccessible; current status unverified, hold.
+- The Forgotten Annals of the First Sovereign: A Legend Born — hiatus, AI-assisted.
+- The last dept collector / The Last Debt Collector — inactive, system apocalypse.
+- The Cassidia Saga / The Warrior Orphan — inactive.
+- If No One Watches, I Die — AI-assisted, modern apocalypse.
+- System (fiction 110759) — inactive.
+- Devils (fiction 163273) — hiatus, AI-assisted.
+- Iconoclast (fiction 131526) — inactive.
+- Reclassified — nonhuman/science-fiction mismatch.
+- The Enigmatic Heiress — female lead.
+- The Unknow — hiatus.
+- Gamer Souls — inactive.
+- Worst Possible Hero — active, but gun/modern-isekai and trope/relationship framing poor fit; landing/reviews only.
+- SYSTELIA: Becoming a Vagabond in Another World with a Unique System — hiatus.
+- PISTOL BOY — inactive, AI-assisted.
+- Apocalypse: I am Supreme — hiatus, AI-assisted.
+- Child of the Birch Grove — hiatus.
+- The Immortal Who Crawled — search-only single-chapter launch; too thin.
+- the law of permanence — AI-assisted.
+- Zero Sum — search-only system apocalypse mismatch.
+- Geezer's Quest / Geezer's Side Quest — active but system-apocalypse/comedy/fanservice mismatch.
+- Fractured World (Astald, fiction 145066) — completed, AI-assisted and AI-generated.
+- The Butcher of Gadobhra — stub.
+- The Glass Wizard — nonhuman co-lead; Book 1 republication incomplete.
+- Unwiped — hiatus.
+- Ice Queen Rising! — female lead.
+- The Power of +1 — contemporary business premise.
+
+[Full report](searches/2026-10-21-non-op-wording-03.md).
