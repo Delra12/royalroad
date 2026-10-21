@@ -243,3 +243,22 @@ Details: [October 13 strict screening](searches/2026-10-13-strict-screening.md).
 - Horizon of War — stub.
 
 Details: [October 17 wording search](searches/2026-10-17-non-op-wording.md).
+
+## 2026-10-21 — continued non-OP wording search
+- Shadow of the Silver Desert — qualified new lead; active 18 entries/~154 pages, Wed/Sun. Human male tribal protagonist, medieval/desert fantasy, hard magic, explicit no-early-OP promise. Prologue and chapters 1–2 read. Wordy, summary-heavy prose; sparse characterization. Long-term repeated failure unverified.
+- The Runesmith — active but poor tone/prose fit after opening; truck/gamer-isekai framing, rough grammar, crafting/stat emphasis.
+- Refugium — DROPPED.
+- Soul Eater’s Compendium / Soul-Eater's Compendium / Soul Forging: The Arcane Compendium — INACTIVE.
+- Endless River — STUB, eagle protagonist.
+- The Flame in the Forge — HIATUS.
+- WITH SOUL AND MAGIC — a new beginning — HIATUS, AI-Assisted warning.
+- Delve — INACTIVE in current indexed results.
+- Edge of Apocalypse / Earth's Chosen — STUB.
+- Only Villains Do That — stubbed.
+- Parallel Encounter — contemporary/sci-fi, thin new backlog.
+- Tales of Zorania: Songs of the Unspoken — thin backlog/sparse cadence, magitech.
+- ROOTBOUND — A Cozy Cultivation Tale — single-entry launch; cozy nonfighting emphasis.
+- I Was Given the Unremarkable Path, So I Survived on Spite — five-entry launch; too thin.
+- The Toll-Road to Immortality — already excluded in September 28 report; central alias added. Strong cheat artifact concern, not a clean non-OP recommendation.
+
+Details: [October 21 wording search](searches/2026-10-21-non-op-wording.md).
