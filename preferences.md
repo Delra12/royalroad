@@ -86,3 +86,6 @@ This repository is the source of truth for future recommendation searches. Check
 14. Apply the strict no-spoiler rule to every recommendation. User-facing evidence should come from premise/opening chapters or spoiler-free high-level observations only; never reveal specific later events just to prove fit.
 15. For active stories, call out cadence/status. For completed stories, simply note that they are complete.
 16. If a title is only a superficial fit, do not recommend it just to fill space.
+
+## Latest search direction — October 21, 2026
+The user explicitly broadened discovery beyond stories whose descriptions promise no sudden OP shortcuts. Search for the underlying taste, not required marketing phrases. This does not waive existing protagonist, status, Royal Road, no-AI, English-original, spoiler, or deduplication constraints.
