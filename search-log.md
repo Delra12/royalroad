@@ -166,3 +166,11 @@ No new start-now recommendation survived this pass.
 - Test Summoning: Apocalypse, REN, and The Erased received opening excerpts screening; failed tone, emphasis, or prose fit.
 - Other leads failed status/AI/setting gates. Terminal Fantasy identified in older dated reports and indexed centrally.
 - [Full report](searches/2026-10-21-non-op-wording-04.md).
+
+## 2026-10-21 — non-OP wording, fifth pass
+- No new recommendation. All 28 Markdown files checked for duplicates.
+- As Below, So Above received chapters 1–2 screening; rejected for quippy/meta tone and characterization concerns despite constrained-power reviews.
+- Sovereign Sight received chapters 1–3 screening; kept unresolved Harker identity/dedupe hold and exceptional-enhancement caveat.
+- The Trait Hoarding Mage received chapter 1 and chapter 2 opening screening; rough/repetitive prose, early unique-artifact framing and tiny backlog.
+- Recorded other status/AI/setting exclusions and clearly marked search-only leads. Re:Spawn was already used.
+- [Full report](searches/2026-10-21-non-op-wording-05.md).
