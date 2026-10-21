@@ -174,3 +174,9 @@ No new start-now recommendation survived this pass.
 - The Trait Hoarding Mage received chapter 1 and chapter 2 opening screening; rough/repetitive prose, early unique-artifact framing and tiny backlog.
 - Recorded other status/AI/setting exclusions and clearly marked search-only leads. Re:Spawn was already used.
 - [Full report](searches/2026-10-21-non-op-wording-05.md).
+
+## 2026-10-21 — non-OP wording, sixth pass
+- One tentative new lead: The Patient Cultivator. Opening research/failure behavior fits slow-growth request, but early soul-stability exceptionalism and unconfirmed protagonist orientation must be disclosed.
+- Current tree and all 29 Markdown files checked for duplicates. Savage Divinity central alias added from dated reports.
+- Screened Origins, Ascent, and Tale of Ramiel openings; other leads failed AI/protagonist/setting/status gates.
+- [Full report](searches/2026-10-21-non-op-wording-06.md).
