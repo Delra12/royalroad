@@ -150,3 +150,9 @@ No new start-now recommendation survived this pass.
 - No recommendation survived. The Wielder received opening screening but failed prose/tone/exceptionalism fit. Most other literal matches failed status or were duplicates.
 - Indexed screened exclusions and explicitly distinguished search-only unverified leads.
 - [Full report](searches/2026-10-21-non-op-wording-02.md).
+
+## 2026-10-21 — non-OP wording, third pass
+- One qualified new lead: A Bright and Shiny Life. Explicit author not-OP statement, active substantial backlog, medieval political/academy setup. Read chapters 1–5 and checked the Gender Bender tag against author clarification.
+- Caveats: genuinely cruel sacrifice-focused protagonist; early temporary boosts mean no blanket slow-power-creep guarantee.
+- Recorded status/AI/protagonist/setting exclusions and inaccessible unverified leads. No absent AI warning was treated as proof.
+- [Full report](searches/2026-10-21-non-op-wording-03.md).
