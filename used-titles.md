@@ -295,7 +295,7 @@ Details: [October 21 wording search](searches/2026-10-21-non-op-wording.md).
 Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-02.md).
 
 ## 2026-10-21 — non-OP wording, third pass
-- A Bright and Shiny Life — qualified new lead. Original active ~183 entries/1,820 pages, every fifth day. Author explicitly says not OP. Read chapters 1–5; tactics, limits, politics/academy premise. Very cruel sacrifice-focused protagonist and quick temporary power boosts are major caveats. Gender Bender tag checked: author says MC does not undergo sex change.
+- A Bright and Shiny Life — USER REJECTED: gay male protagonist (October 21 feedback); premise otherwise had potential. Historical screening: qualified new lead. Original active ~183 entries/1,820 pages, every fifth day. Author explicitly says not OP. Read chapters 1–5; tactics, limits, politics/academy premise. Very cruel sacrifice-focused protagonist and quick temporary power boosts are major caveats. Gender Bender tag checked: author says MC does not undergo sex change.
 - Lucid: The Dreamer — inactive, nonhuman/dungeon-core.
 - The Illusion of Heaven — inactive, AI-assisted.
 - At the Crossroads of World — inaccessible; current status unverified, hold.
