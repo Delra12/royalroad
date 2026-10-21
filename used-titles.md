@@ -353,3 +353,20 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-02.
 - Terminal Fantasy — already screened in September 30 and October 1 reports; central alias added for dedupe.
 
 Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-04.md).
+
+## 2026-10-21 — non-OP wording, fifth pass
+- As Below, So Above — active ~267/~2,943 pages, weekday releases. Chapters 1–2 read. Constrained versatile magic, but meta/quippy tone and weak early threat; reviews independently flag immature characterization and excessive quips. Not recommended.
+- Sovereign Sight — active ~73/~650 pages, M/W/F; chapters 1–3 read. Human male Harker, limited healer/perception opening. Hold: unresolved possible identity with previously indexed mistaken/unverified “Harker”; synopsis also advertises exceptional enhancement. Do not silently resurface as new.
+- The Trait Hoarding Mage — active new 9/~58 pages. Chapter 1 and chapter 2 opening screened. Literal not-OP wording; repetitive/rough prose, unique-artifact exceptionalism, insufficient backlog.
+- The Wandsmith — stub, harem/multiple lovers.
+- The Endless Expanse — inactive.
+- Penitent — search-result stub.
+- Isekai Nurse Chronicles — hiatus, AI-assisted/generated.
+- Bringer of Salvation — hiatus; volume completion does not mean completed serial.
+- How to End the Forever War — ongoing label, single-entry/zero-indexed-page launch, too thin.
+- Aetherfall — search-only modern system-apocalypse setting mismatch; status unverified.
+- The Cosmic Throne — search-only science-fiction space setting mismatch.
+- Emissary of Nothingness — search-only unverified; relevant wording belonged to embedded advertisement, not established for main story.
+- The Salvage Mage — search-only new lead, not fully screened; status unverified.
+
+Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.md).
