@@ -156,3 +156,7 @@ No new start-now recommendation survived this pass.
 - Caveats: genuinely cruel sacrifice-focused protagonist; early temporary boosts mean no blanket slow-power-creep guarantee.
 - Recorded status/AI/protagonist/setting exclusions and inaccessible unverified leads. No absent AI warning was treated as proof.
 - [Full report](searches/2026-10-21-non-op-wording-03.md).
+
+## 2026-10-21 — feedback on A Bright and Shiny Life
+- User said the story had potential but rejected it because the protagonist is gay.
+- Added no gay male protagonists to hard constraints. Do not resurface this title or extend the preference to supporting characters without evidence.
