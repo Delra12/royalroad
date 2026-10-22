@@ -437,3 +437,28 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.
 - Ethan, the Will Bearer — already screened October1; missing central alias added.
 
 [Full report](searches/2026-10-21-broader-taste-search-03.md).
+
+## 2026-10-21 — final broader search, fourth pass
+- The Acts of Androkles — USER REJECTED: not interested; no specific reason given.
+- A Tragic Expedition [Completed] — completed29/~189pages; extended chapter1 opening screened. Loop/mystery premise fits, prose/grammar and exaggerated party banter do not. Not recommended.
+- Elves of the Taliswood / Elves of the Taliswood [A Noblebright High Fantasy] / Inclusions — completed~833pages, human male negotiator. Extended chapter1 portions screened. Trade/faction premise promising, romance emphasis, quippy/expository uneven prose and mythic-hero direction poor fit. Not recommended.
+- I inherited the throne: Reluctant King / Reluctant King [Kingdom Building] — completed231/~2,023pages. Extended chapter2 screened; immediate rare-luck/unique-skill validation, modern banter and critical characterization/contrivance concerns. Not recommended.
+- Mythical (176130) — hiatus.
+- Echoes of Disruption — hiatus, AI-assisted/generated.
+- Unrecorded: Every Death Sends Me Back — AI-assisted.
+- The Forgotten Name — ongoing label6/~32pages; thin backlog, sustained current activity not verified.
+- The Reluctant Court Wizard — inactive.
+- Unfought Wars — stubbed.
+- Golden Toad - A Progression Fantasy Isekai — inactive, AI-assisted.
+- How To Love Your Archnemesis — stubbed.
+- The Twisted Time Loop — search-only urban/comedy mismatch.
+- Mutiny of the Seven — search-only prequel short story; unverified.
+- Souls of Fantasy: Twilight — search-only unverified.
+- The Survivor of the End of Time — search-only contemporary setting mismatch.
+- The Knot — search-only contemporary sci-fi mismatch.
+- Everything Goes According to Plan — search-only unverified.
+- Tales of the Three Kingdoms: Silver Falcon Falls — search-only game-world premise.
+- Flowers of Crystal — search-only sci-fi romance mismatch.
+- Son of Julius Caesar: Rebuilding Rome — search-only Roman/business alternate-history mismatch.
+
+Outcome: no new recommendation cleared. [Full report](searches/2026-10-21-broader-taste-search-04-final.md).
