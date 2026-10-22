@@ -187,3 +187,10 @@ No new start-now recommendation survived this pass.
 - Opening portions of first two chapters screened, positive/critical reviews compared. Canonical ongoing page and October12 update override older hiatus snapshots.
 - Logged new exclusions and indexed previously used Heir of Lorele centrally.
 - [Full report](searches/2026-10-21-broader-taste-search.md).
+
+## 2026-10-21 — broader taste search, second pass
+- Zenith deferred by user as possible later read.
+- Checked all31 Markdown files. New qualified lead: Crossroads of Time, completed seven-book fantasy/time-mystery quest; read opening1.1–1.3, verified ending availability via TOC/afterword.
+- Disclosed slow exposition, unusual-gift recognition, multiple viewpoints; no claim of frequent major defeats or repeating death loops.
+- Logged other exclusions and indexed Magnus/Depthless Hunger from older reports.
+- [Full report](searches/2026-10-21-broader-taste-search-02.md).
