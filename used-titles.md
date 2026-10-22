@@ -420,3 +420,20 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.
 - Depthless Hunger — already in October1/October21 reports; central alias added.
 
 [Full report](searches/2026-10-21-broader-taste-search-02.md).
+
+## 2026-10-21 — broader taste search, third pass
+- The Acts of Androkles — qualified character/adventure alternative; original completed three-book series, 86 entries/~1,422 pages. Human male forty-year-old veteran, wife in opening. Extended opening portions of chapters1/2.1/2.2 screened; private later excerpts checked. Proud flawed protagonist, developing relationships and difficult obligations. Already powerful, Greek-inspired rather than medieval, found-family focus and mythic/macho presentation. Not a verified repeated-defeat/loop match; do not promise no divine assistance/hero framing. No AI warning, not certification.
+- The Eagle's Flight / The Eagle’s Flight — stub.
+- The Prince of Cats — stub.
+- Tears of Dusk — inactive.
+- Reforged from Ruin / Reforged from Ruin [Eldritch Xianxia Cultivation] — female lead, stub.
+- The Last City Book 1: Dawn of Dusk — search-only unverified lead.
+- Imperator's Path / Imperator’s Path: A Sci-Fantasy Xianxia — search-only sci-fi-first setting exclusion.
+- The Deadliest Lifeform in the Universe Loves Me — search-only modern/alien romance mismatch.
+- The Son of Ares — search-only unverified identity; prodigy/exponential-power premise concern.
+- Isekai'd in Skyrim / Isekai’d in Skyrim — search-only game fanfiction mismatch.
+- Thresholder — title-only possible lead, not screened or recommended.
+- Brewing Bad — already screened October2; missing central alias added.
+- Ethan, the Will Bearer — already screened October1; missing central alias added.
+
+[Full report](searches/2026-10-21-broader-taste-search-03.md).
