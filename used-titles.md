@@ -406,3 +406,17 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.
 - Heir of Lorele — already screened October1; central alias added.
 
 [Full report](searches/2026-10-21-broader-taste-search.md).
+
+## 2026-10-21 — broader taste search, second pass
+- Zenith of Sorcery — user said might read later; deferred interest, not rejection.
+- Crossroads of Time — qualified new lead, completed164/~1,930pages, seven books. Opening1.1–1.3 read. Human male seer, archaeological quest, time/fate mystery, competing agendas. Slow/expository, multiple viewpoints and magitech; early unique-gift recognition. Not verified as recurring death-loop or frequent-major-defeat story. No AI warning; author-published English, no fan/MTL dependency found, original manuscript language unstated. No gay evidence; orientation not conclusively established.
+- WORLDSEED (Philetus,70934) — completed, chapter1 opening screened; unique-skill/system/reincarnation emphasis and harem/character-depth concerns.
+- Shades of Perception — inactive, books1–2 removed to Kindle, Victorian.
+- A Blade Through Time / Desolada — book1 removed for KU; cannot read full series on RR.
+- Sin Unwitnessed: A Hollow Elf Mystery — search-only elf lead/multiple-lovers mismatch.
+- The Flower Blooms in Catastrophe — hiatus.
+- Layers of the Void — inactive, nonhuman.
+- Magnus — already in October3 report; central alias added.
+- Depthless Hunger — already in October1/October21 reports; central alias added.
+
+[Full report](searches/2026-10-21-broader-taste-search-02.md).
