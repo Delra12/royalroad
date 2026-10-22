@@ -200,3 +200,9 @@ No new start-now recommendation survived this pass.
 - The Acts of Androkles is a qualified completed character/adventure alternative. Screened extended opening portions and private later excerpts; disclosed already-strong hero, Greek setting, family emphasis and mythic presentation. No claim of frequent defeats or no heroic assistance.
 - Logged new status/setting/protagonist exclusions and unverified search-only leads. Brewing Bad/Ethan aliases added centrally from dated reports.
 - [Full report](searches/2026-10-21-broader-taste-search-03.md).
+
+## 2026-10-21 — final broader search, fourth pass
+- User rejected The Acts of Androkles and requested one last search.
+- Refreshed current tree/all33 Markdown files. Three new completed candidates received opening-text screening: A Tragic Expedition, Elves of the Taliswood, Reluctant King. None cleared prose/tone/emphasis/early-exceptionalism requirements.
+- Other leads failed status/AI/backlog/setting gates. No recommendation; no weak near-match presented as a fit.
+- [Full report](searches/2026-10-21-broader-taste-search-04-final.md).
