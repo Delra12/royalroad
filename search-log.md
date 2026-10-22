@@ -194,3 +194,9 @@ No new start-now recommendation survived this pass.
 - Disclosed slow exposition, unusual-gift recognition, multiple viewpoints; no claim of frequent major defeats or repeating death loops.
 - Logged other exclusions and indexed Magnus/Depthless Hunger from older reports.
 - [Full report](searches/2026-10-21-broader-taste-search-02.md).
+
+## 2026-10-21 — broader taste search, third pass
+- Checked current tree and all32 Markdown files; no repeat recommendation.
+- The Acts of Androkles is a qualified completed character/adventure alternative. Screened extended opening portions and private later excerpts; disclosed already-strong hero, Greek setting, family emphasis and mythic presentation. No claim of frequent defeats or no heroic assistance.
+- Logged new status/setting/protagonist exclusions and unverified search-only leads. Brewing Bad/Ethan aliases added centrally from dated reports.
+- [Full report](searches/2026-10-21-broader-taste-search-03.md).
