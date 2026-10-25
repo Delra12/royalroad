@@ -462,3 +462,8 @@ Outcome: no recommendation. [Full report](searches/2026-10-21-non-op-wording-05.
 - Son of Julius Caesar: Rebuilding Rome — search-only Roman/business alternate-history mismatch.
 
 Outcome: no new recommendation cleared. [Full report](searches/2026-10-21-broader-taste-search-04-final.md).
+
+
+## 2026-10-25 — user-requested Coin and Steel assessment
+- Coin and Steel by Fairly Focused (192660) — user requested analysis, no user verdict yet. Qualified try, not a strong guaranteed fit. Ongoing; retrieved page showed 25 chapters/~230 pages. Author advertises daily Oct15–Nov15 then M/W/F; book1 drafted and edited at180k words, not fully available on RR. Human male Elliot; contemporary apocalypse opening transitions to secondary-world medieval-adjacent fantasy. Author explicitly states no AI used. Orientation unverified. Opening chapter1 and4 passages plus chapter11/12 samples inspected; reviews cross-checked. Strengths: grounded family motivation, readable character-oriented prose, layered world and institutions with independent agendas, knowledge matters. Concerns: eventual OP explicitly promised; early exceptional-potential/mentor-validation signals despite required effort; repeated consequential losses not established by sample; not a verified time-loop story. Avoid portraying slow progression as proof of recurring failure. No later plot specifics disclosed to user.
+- Source: https://www.royalroad.com/fiction/192660/coin-and-steel
