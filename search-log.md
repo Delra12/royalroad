@@ -206,3 +206,8 @@ No new start-now recommendation survived this pass.
 - Refreshed current tree/all33 Markdown files. Three new completed candidates received opening-text screening: A Tragic Expedition, Elves of the Taliswood, Reluctant King. None cleared prose/tone/emphasis/early-exceptionalism requirements.
 - Other leads failed status/AI/backlog/setting gates. No recommendation; no weak near-match presented as a fit.
 - [Full report](searches/2026-10-21-broader-taste-search-04-final.md).
+
+## 2026-10-26 — new books
+- No new recommendation cleared. Aeonshade opening screened; early exceptionalism/dungeon focus poor fit. Jericho Stands excluded for explicit AI-assisted warning. Other leads failed setting, protagonist or status gates, or remained unverified.
+- Cross-file dedupe caught A Memory of Eternity. Coin and Steel already assessed October 25.
+- [Full notes](searches/2026-10-26-new-books.md).
