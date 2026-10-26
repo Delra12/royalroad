@@ -467,3 +467,23 @@ Outcome: no new recommendation cleared. [Full report](searches/2026-10-21-broade
 ## 2026-10-25 — user-requested Coin and Steel assessment
 - Coin and Steel by Fairly Focused (192660) — user requested analysis, no user verdict yet. Qualified try, not a strong guaranteed fit. Ongoing; retrieved page showed 25 chapters/~230 pages. Author advertises daily Oct15–Nov15 then M/W/F; book1 drafted and edited at180k words, not fully available on RR. Human male Elliot; contemporary apocalypse opening transitions to secondary-world medieval-adjacent fantasy. Author explicitly states no AI used. Orientation unverified. Opening chapter1 and4 passages plus chapter11/12 samples inspected; reviews cross-checked. Strengths: grounded family motivation, readable character-oriented prose, layered world and institutions with independent agendas, knowledge matters. Concerns: eventual OP explicitly promised; early exceptional-potential/mentor-validation signals despite required effort; repeated consequential losses not established by sample; not a verified time-loop story. Avoid portraying slow progression as proof of recurring failure. No later plot specifics disclosed to user.
 - Source: https://www.royalroad.com/fiction/192660/coin-and-steel
+
+
+## 2026-10-26 — new-book search
+- Aeonshade — ongoing; chapter 1 and extended chapter 2 opening screened. Immediate genius/unique-power validation and dungeon-trial emphasis; not recommended.
+- Jericho Stands — ongoing, explicit AI-assisted warning; excluded.
+- The Lord of None — inactive, half-demon.
+- Tales of Eleutheros — old hiatus snapshot/current activity unresolved; mixed ensemble.
+- Clown of Misery — steam/clockwork setting mismatch; current cadence/provenance unverified.
+- The Blade That Cut the Mouse's Tail — female lead.
+- The Gods Below — nonhuman god lead.
+- Time Cursed Knight — future-Earth/post-apocalypse.
+- Soul Garden — mixed dual leads/female-centered setup.
+- The Convergence Mage — hiatus/rework.
+- Eternal Cycle — inactive.
+- The Mobius Dual-World Mage / The Möbius Dual-World Mage — AI-assisted/cyberpunk.
+- The Dragon Emperor's Son — nonhuman/bloodline premise.
+- How Not to Die Trying — gay male protagonist.
+- A Star's Shot at Redemption; Metempsychosis; More Human Than You; Ares — search-only, not fully screened.
+
+No recommendation. [Full notes](searches/2026-10-26-new-books.md).
