@@ -211,3 +211,7 @@ No new start-now recommendation survived this pass.
 - No new recommendation cleared. Aeonshade opening screened; early exceptionalism/dungeon focus poor fit. Jericho Stands excluded for explicit AI-assisted warning. Other leads failed setting, protagonist or status gates, or remained unverified.
 - Cross-file dedupe caught A Memory of Eternity. Coin and Steel already assessed October 25.
 - [Full notes](searches/2026-10-26-new-books.md).
+
+## 2026-10-29 — new books
+- No new recommendation cleared. Retrieved all32 dated reports for dedupe. Carve the Ley indexed chapter1 passages screened; not a strong fit. Paragon of Mana rejected at premise gate. Recorded other status/protagonist/setting exclusions and distinguished unverified search-only leads.
+- [Full notes](searches/2026-10-29-new-books.md).
