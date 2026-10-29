@@ -487,3 +487,36 @@ Outcome: no new recommendation cleared. [Full report](searches/2026-10-21-broade
 - A Star's Shot at Redemption; Metempsychosis; More Human Than You; Ares — search-only, not fully screened.
 
 No recommendation. [Full notes](searches/2026-10-26-new-books.md).
+
+
+## 2026-10-29 — new-book search
+- Carve the Ley — ongoing159/~1276 pages; substantial indexed chapter1 passages read after direct fetch errors. Generic baby/stat-grinding opening and mixed power/tension reviews; not recommended.
+- Paragon of Mana / Paragon of Mana (Editing) — landing only; explicit faster-than-everyone advancement premise, not recommended.
+
+- The Land of Broken Roads (69480): STUB; full early volumes removed. No deeper evaluation.
+- The Faerie Knight (81687): STUB; all three volumes removed. No deeper evaluation.
+- Guild Mage: Apprentice (97554): STUB, female lead.
+- The Squire / The Squire [A Local's POV about Transmigrators] / A Local's Tale About Transmigrators (173580): initially old ongoing snapshots, newer canonical alias shows HIATUS; no recommendation or opening screening.
+- Parity (75597): explicit AI-Assisted warning.
+- Knight of Corruption (39416): completed, multiple-lovers/consume-to-grow premise; no opening screening, not a good priority.
+- Knight & Condemned (13227): mixed female/male co-leads.
+- The Skeleton Knight (56585): nonhuman.
+- The Knight with a Mage's Name (125621): female lead.
+- Knight's Fate: Knight and Princess (45682): female lead.
+- The Holy Knight of Eriskay (71677): deer protagonist.
+- Cosmos Knight (144292), Chronus Knight (167982), Crusade: The Black Knight (146405): urban superhero/science-fiction settings.
+- The Wild Rose and the Knight (146323): romance-focused mixed leads.
+- The Ninth Life of a Nameless Squire (190864): stale one-entry launch snapshot; current backlog/activity not verified. Do not confuse with already-used Wick; no recommendation.
+- What We Owe the Dead (191082): stale one-entry launch snapshot; current backlog/activity unverified.
+- Knight: The Man Who Follows His Sacred Duty (188569): stale two-entry snapshot; unverified, growth-cheat premise concern.
+- The Knights of Blood and Puss Castle (198701): middle-grade toilet comedy.
+- Chronicles of the Red Squire (196180), The Corruption of Saint Aqyn (176894): female leads.
+- One World Won't Do: world hopping/multiple-lovers/anime comparative framing, search-list only.
+- The Law of the Abyss: apocalypse premise, search-list only; not deeply screened.
+- Endless Delirium: system-apocalypse/dungeon-first premise, search-list only.
+- Cursed Alchemists: dual female/male leads and prominent romance, search-list only.
+- Baby Archmage: explicit infant-genius/OP validation premise.
+- The Strongest Spellblade: explicit predetermined best-of-generation specialness/grinding premise.
+
+
+No recommendation cleared. [Full report](searches/2026-10-29-new-books.md).
