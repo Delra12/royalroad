@@ -215,3 +215,7 @@ No new start-now recommendation survived this pass.
 ## 2026-10-29 — new books
 - No new recommendation cleared. Retrieved all32 dated reports for dedupe. Carve the Ley indexed chapter1 passages screened; not a strong fit. Paragon of Mana rejected at premise gate. Recorded other status/protagonist/setting exclusions and distinguished unverified search-only leads.
 - [Full notes](searches/2026-10-29-new-books.md).
+
+## 2026-10-31 — new books
+- Checked all 33 prior dated reports. One qualified sample suggestion: The Spell Crafter, completed medieval fantasy mystery. Indexed prologue and chapters One/Two screened; no claim of verified repeated later failures. Recorded other exclusions and provenance limitations.
+- [Full report](searches/2026-10-31-new-books.md).
