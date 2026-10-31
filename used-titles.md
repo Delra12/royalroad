@@ -520,3 +520,28 @@ No recommendation. [Full notes](searches/2026-10-26-new-books.md).
 
 
 No recommendation cleared. [Full report](searches/2026-10-29-new-books.md).
+
+## 2026-10-31 — new search
+
+- The Spell Crafter (BrianEainson, 34277): qualified sample recommendation; completed medieval mystery, 191 pages. Opening screened; repeated later losses and orientation not verified. See full report for limitations.
+- Saga of Fallen Kings, Book I: The Revenant Prince / A King of his Own (28325): Original COMPLETED, 382 pages. Strong medieval politics premise, but resurrected protagonist's humanity is explicitly uncertain; completed volume of intended larger saga, broader closure unverified. No recommendation. https://www.royalroad.com/fiction/28325/saga-of-fallen-kings-book-i-the-revenant-prince
+- Crimson Moon, Azure Stars (102838): Original COMPLETED, 89 pages. Established elite cultivator/detective; reviews describe conventional xianxia/manhua style. Weak tonal fit; no opening screening. https://www.royalroad.com/fiction/102838/crimson-moon-azure-stars
+- Meleran: Once Was, Once Was Not (166830): COMPLETED 46 chapters, mixed leads including nonhuman cat; English-original provenance not established (author also publishes Turkish works; not proof this is translated). Not recommended. https://www.royalroad.com/fiction/166830/meleran-once-was-once-was-not
+- Meleran: The Living One / The Phoenix in Ashes (184934): completed, fairy protagonist/mixed leads. https://www.royalroad.com/fiction/184934/meleran-the-living-one-epic-fantasy
+- Rancorborn (121588): completed, explicit AI-Assisted warning. https://www.royalroad.com/fiction/121588/rancorborn
+- The Spymaster's Apprentice (88014): completed, explicit AI-Assisted and AI-Generated warnings. https://www.royalroad.com/fiction/88014/the-spymasters-apprentice
+- The Red Flame of Elymais (167337): completed, explicit AI-Assisted warning.
+- Mage By Blood (145331): completed, male gay romance; protagonist mismatch.
+- His Majesty's Harem (42394): nonhuman elf, crossdressing comedy premise.
+- The Aquamancer's Secret (93695): female squirrel protagonist/cozy comedy.
+- Son of Edelia: The Dawn of Gold: search-list screening only, exceptional golden aura/academy setup; not pursued.
+- Mutiny of the Seven: search-list screening only, short prequel/ensemble; not sufficiently vetted.
+- Spell Crafter's Journey (52420): INACTIVE; silently excluded, not confused with recommendation.
+- Status Effect: modern detective premise, listing-only exclusion.
+- The Auditor: Star Wars/comedy listing-only exclusion.
+- An Optimist's Guide to Galactic Failure: science-fiction listing-only exclusion.
+- SABLE: post-apocalyptic/noir mixed-lead listing-only lead; not pursued.
+- Bloodline Devouring System: The Emperor's Path (89060): cheat-driven premise, listing-only lead.
+
+
+[Full report](searches/2026-10-31-new-books.md).
