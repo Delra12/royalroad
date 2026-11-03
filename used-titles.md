@@ -549,7 +549,7 @@ No recommendation cleared. [Full report](searches/2026-10-29-new-books.md).
 
 ## 2026-11-02 — new books
 
-- Berserker's Path / Berserker’s Path (Quill, 144849): qualified sample recommendation. Original COMPLETED, 78 chapters / 626 Royal Road pages, standalone. Human adult male lead; attraction to a woman verified in later text. No AI warning listed, not proof of AI-free authorship. Extensive indexed chapter 1, chapter 2 passages, chapter 5, and selected later excerpts screened. Grounded prose, consequential mistakes/failures, independently capable companions. Caveats: already strong, early overt divine selection/fate, guardian-child/mythological quest emphasis, no loop; not a politics/academy match. https://www.royalroad.com/fiction/144849/berserkers-path
+- Berserker's Path / Berserker’s Path (Quill, 144849): USER PASSED November 2: too short and not ongoing. Historical screening: qualified sample recommendation. Original COMPLETED, 78 chapters / 626 Royal Road pages, standalone. Human adult male lead; attraction to a woman verified in later text. No AI warning listed, not proof of AI-free authorship. Extensive indexed chapter 1, chapter 2 passages, chapter 5, and selected later excerpts screened. Grounded prose, consequential mistakes/failures, independently capable companions. Caveats: already strong, early overt divine selection/fate, guardian-child/mythological quest emphasis, no loop; not a politics/academy match. https://www.royalroad.com/fiction/144849/berserkers-path
 - Varda Walk / Varda Walk – Psychological Adventure Fantasy (Trathnonen, 59589): completed. Extensive indexed Reforged 1 screened; verbose meta narration, crude sexualized goddess banter, immediate divine reconstruction. Not recommended.
 - The Humble Life of a Skill Trainer (alstonsleet, 30737): completed, 81 entries / 662 pages. Landing/reviews only, opening not screened. Critical reviews flag weak agency, underdelivered training premise and abrupt closure; not advanced.
 - Blood Eagle (Quill, 91540): completed, 55 chapters / 355 pages. Extensive indexed original RR chapter 1 screened. Roman revenge/arena emphasis and superior/aloof characterization concerns; not recommended. Same-text Inkitt listing under a different author has AI label; attribution unresolved, not evidence that Quill's RR original is AI-assisted.
@@ -566,3 +566,23 @@ No recommendation cleared. [Full report](searches/2026-10-29-new-books.md).
 - My Three Classes Are Supposed to Be Average: listing-only; hidden exceptional-power/comedy premise, not deeply screened.
 
 Checked all 34 prior dated reports and central index for duplicates. One qualified suggestion; no new loop match. [Full report](searches/2026-11-02-new-books.md).
+
+
+## 2026-11-02 — longer ongoing follow-up
+
+- License to Cultivate / License to Cultivate [Progression Fantasy Tower Climber] (MTalon, 89317): qualified political/knowledge-progression sample recommendation. Original ONGOING, 381 chapters / 3,390 RR pages; Tue/Thu/Sat cadence, October31 latest and November3 scheduled. Full chapters2 and4 read; chapter1/3 unavailable. Human male primary MC; significant secondary POVs including women. English-original husband/wife team; relationship with woman verified privately. No AI warning listed, not independent certification. Political/permit/secret-knowledge focus and independent companions; caveats cultivation/towers, early legacy assistance, continuity complaints, and repeated major losses not verified.
+- The Exalt / The Exalt [Cultivation Fantasy] (55601): INACTIVE; status exclusion.
+- Duskbound: a Monster Hunter LitRPG (97850): STUB; status exclusion.
+- Duskbound (Benisha Jenison, 112047): separate work, INACTIVE contemporary mafia romance.
+- Matabar (94398): STUB; status exclusion.
+- Seaborn (30131): INACTIVE; status exclusion.
+- The Rícewelig Crown / The Ricewelig Crown (33670): COMPLETED66/~433pages; short/comedy, wrong current ongoing target.
+- Lure O' War / The Old Realms / Wings O' Fate (47919); Touch O' Luck / Hint O' Magic: long ongoing mixed human/nonhuman, male/female ensemble and sequel structure; landing-only, not advanced.
+- The Exorcist Doctor (113777): long ongoing, Victorian/bioarcanic and comic/romantic presentation, announced January19 stubbing; landing/reviews only, not advanced.
+- The Way Ahead (42202): search-only, current status unresolved; not deeply screened.
+- Just Add Mana: listing-only, huge innate mana/comedy opening premise mismatch.
+- Chaotic Craftsman Worships the Cube: listing-only, not deeply screened.
+- The Homesteader's Almanac: listing-only cozy farming/relationship focus, not advanced.
+- The Fix (201268); A Crucible of Centuries (200731): search-only new leads; substantial backlog and fit unverified.
+
+User now prioritizes longer ongoing stories; no exact minimum length invented. [Full report](searches/2026-11-02-long-ongoing.md).
