@@ -7,7 +7,7 @@ This repository is the source of truth for future recommendation searches. Check
 - Human male main character only unless the user explicitly asks otherwise. Nonhuman protagonists (skeletons, monsters, etc.) are a hard mismatch.
 - Royal Road only unless the user explicitly asks to broaden the search.
 - Surface only ACTIVE or COMPLETED stories. Do not mention inactive, hiatus, abandoned, stubbed, or otherwise dead stories at all in recommendation results.
-- Completed stories are fully acceptable and should be treated as equally valid as active stories.
+- Latest preference (November 2, 2026): prioritize longer, ongoing serials with substantial backlogs. User passed on Berserker's Path because it was quite short and not ongoing. Completed stories were previously acceptable, but are not the target of the current search; do not invent a permanent absolute ban or exact minimum length.
 - Avoid recommending titles already listed in the repo as recommended, discussed, rejected, read, or otherwise used unless explicitly revisiting them.
 - Prefer active stories with a meaningful backlog and reasonably frequent release cadence; completed stories need no cadence warning.
 - Avoid generic progression sludge, stat/dungeon grinding that replaces plot, comedy-first stories, effortless domination, harem-heavy stories, romance-heavy stories, and AI-flavored/repetitive prose.
@@ -74,7 +74,7 @@ This repository is the source of truth for future recommendation searches. Check
 2. Search Royal Road only unless the user explicitly says otherwise.
 3. Aggressively deduplicate.
 4. Verify status before any deeper evaluation. If a story is inactive, hiatus, abandoned, stubbed, or otherwise unavailable/dead, drop it silently and do not mention it to the user.
-5. Accept ACTIVE and COMPLETED stories. Completed is not a negative.
+5. Apply the latest length/status preference: for the November 2 follow-up, search longer ACTIVE serials. Earlier permission to recommend completed stories does not override this direction.
 6. Confirm the protagonist is a human male before recommending.
 7. Confirm the work is natively available in English and does not depend on fan/MTL translation.
 8. Reject Royal Road stories carrying AI-Assisted or AI-Generated warnings. When credible AI-prose concerns exist without a tag, inspect the opening before recommending.
