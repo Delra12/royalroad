@@ -219,3 +219,10 @@ No new start-now recommendation survived this pass.
 ## 2026-10-31 — new books
 - Checked all 33 prior dated reports. One qualified sample suggestion: The Spell Crafter, completed medieval fantasy mystery. Indexed prologue and chapters One/Two screened; no claim of verified repeated later failures. Recorded other exclusions and provenance limitations.
 - [Full report](searches/2026-10-31-new-books.md).
+
+
+## 2026-11-02 — new books
+- Checked all 34 prior dated reports and central index. One qualified suggestion: Berserker's Path, completed standalone Norse fantasy. Extensive indexed opening text and selected later excerpts screened; grounded prose, meaningful failures and independent companions support the suggestion.
+- Disclosed already-strong protagonist, early divine-selection/fate framing, guardian-child emphasis, and no loop. No AI warning listed; no claim of independently certified AI-free authorship.
+- Varda Walk and Blood Eagle also received opening-text screening. Logged other exclusions, review-only candidates and unresolved retrievals without presenting them as fully vetted. Did not attribute a different author's same-text Inkitt AI label to Quill's RR original.
+- [Full report](searches/2026-11-02-new-books.md).
