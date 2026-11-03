@@ -545,3 +545,24 @@ No recommendation cleared. [Full report](searches/2026-10-29-new-books.md).
 
 
 [Full report](searches/2026-10-31-new-books.md).
+
+
+## 2026-11-02 — new books
+
+- Berserker's Path / Berserker’s Path (Quill, 144849): qualified sample recommendation. Original COMPLETED, 78 chapters / 626 Royal Road pages, standalone. Human adult male lead; attraction to a woman verified in later text. No AI warning listed, not proof of AI-free authorship. Extensive indexed chapter 1, chapter 2 passages, chapter 5, and selected later excerpts screened. Grounded prose, consequential mistakes/failures, independently capable companions. Caveats: already strong, early overt divine selection/fate, guardian-child/mythological quest emphasis, no loop; not a politics/academy match. https://www.royalroad.com/fiction/144849/berserkers-path
+- Varda Walk / Varda Walk – Psychological Adventure Fantasy (Trathnonen, 59589): completed. Extensive indexed Reforged 1 screened; verbose meta narration, crude sexualized goddess banter, immediate divine reconstruction. Not recommended.
+- The Humble Life of a Skill Trainer (alstonsleet, 30737): completed, 81 entries / 662 pages. Landing/reviews only, opening not screened. Critical reviews flag weak agency, underdelivered training premise and abrupt closure; not advanced.
+- Blood Eagle (Quill, 91540): completed, 55 chapters / 355 pages. Extensive indexed original RR chapter 1 screened. Roman revenge/arena emphasis and superior/aloof characterization concerns; not recommended. Same-text Inkitt listing under a different author has AI label; attribution unresolved, not evidence that Quill's RR original is AI-assisted.
+- Scions of Otherworld / Scions of Tuatha Dé / Blighted Treasure (M. L. Gorman): completed listing, 120 chapters / 957 pages; two books completed, third future. Explicit no-AI declaration. Landing/reviews only; opening unavailable. Ensemble, ancestry framing and broader closure unresolved; not fully vetted.
+- Eternal Malediction (L0ckyBoi): ongoing. Contemporary/world-hopping emphasis; critical dialogue/arc concerns. Landing/reviews only, no opening screened.
+- A Band of Dead Men (129321): HIATUS; excluded.
+- A Memory of Ashes (202160): two chapters / 23 pages at screening; insufficient backlog.
+- An Empire of Dragons: Sleeping Flame (155123): canonical link 404; unresolved, no recommendation.
+- Echoes Beyond Time (141167): canonical retrieval error; indexed Star Wars/Force science-fiction setting.
+- Past Present (98559): INACTIVE, modern startup setting.
+- VOIDMARK (198569): listing-only; tiny launch backlog and exceptional rule-negating power framing, not advanced.
+- Crimson Rift (132144): INACTIVE, AI-Assisted warning / harem fanfiction.
+- A Crown of Iron and Ash: listing-only; male gay romance / steampunk mismatch.
+- My Three Classes Are Supposed to Be Average: listing-only; hidden exceptional-power/comedy premise, not deeply screened.
+
+Checked all 34 prior dated reports and central index for duplicates. One qualified suggestion; no new loop match. [Full report](searches/2026-11-02-new-books.md).
