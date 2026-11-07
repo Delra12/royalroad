@@ -226,3 +226,14 @@ No new start-now recommendation survived this pass.
 - Disclosed already-strong protagonist, early divine-selection/fate framing, guardian-child emphasis, and no loop. No AI warning listed; no claim of independently certified AI-free authorship.
 - Varda Walk and Blood Eagle also received opening-text screening. Logged other exclusions, review-only candidates and unresolved retrievals without presenting them as fully vetted. Did not attribute a different author's same-text Inkitt AI label to Quill's RR original.
 - [Full report](searches/2026-11-02-new-books.md).
+
+
+## 2026-11-06 — broad Royal Road search after fantasy detective discussion
+- Checked current trending, ongoing, and rising-star mystery listings against central used-titles and preferences.
+- **Grand Arcana** (Lise Eclaire, fiction 182721): fresh qualified *tentative* lead. Ongoing, 123 chapters/~990 pages on Nov 6, claimed M/W/F; human male Greg, single regression and betrayal mystery. Caveats deck-building trials/LitRPG not medieval fantasy; first chapter retrieval restricted; repeated meaningful setbacks and AI-free prose not verified. https://www.royalroad.com/fiction/182721/grand-arcana
+- **The Spellwright's Guild** (Jamie Locke, fiction 160303): opening chapter read; natural straightforward writing with structured potion commission and XP notifications, male MC, school/guild mystery and an actual rival. But strongly cozy crafting, little combat and little indication of repeated high-stakes failure; latest RR listing says books 1&2 complete and resumes early 2027, thus not recommended to this user's currently-active cadence preference.
+- **Keeper of the Infinite Archive**: comedy/cozy and magical-library premise, weak tone fit, not recommended.
+- **Pathbreaker: The Cypher's Secret Class**: 52 chapters, unusual secret class, stat/system focus, easy hidden-specialness warning, not recommended.
+- **Choices We Make**: urban system premise, not medieval; excluded.
+- **Vampire Ancestor in a Cultivation World**: vampire nonhuman MC; excluded.
+- Other listings were known rejects, hiatus/stubs, wrong POV, modern/post-apoc, or insufficiently vetted. No Ace Attorney-type new serial verified.
