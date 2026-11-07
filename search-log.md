@@ -237,3 +237,10 @@ No new start-now recommendation survived this pass.
 - **Choices We Make**: urban system premise, not medieval; excluded.
 - **Vampire Ancestor in a Cultivation World**: vampire nonhuman MC; excluded.
 - Other listings were known rejects, hiatus/stubs, wrong POV, modern/post-apoc, or insufficiently vetted. No Ace Attorney-type new serial verified.
+
+
+## 2026-11-06 — further search after Grand Arcana
+- **Beyond Control: A System's Descent** (Hassaan94, 172811): new *tentative* recommendation; original ONGOING, 131 chapters / 942 pages and Mon–Fri updates per Nov 6 mystery trending listing. Male MC Alex. New/incomplete system forces research and discovery rather than instant knowledge; reviews praise non-OP hard-earned advancement and limited AI-like markers, but opening chapter blocked by RR; no independent prose verification, no repeated-failure verification. Significant setting mismatch: contemporary system apocalypse. https://www.royalroad.com/fiction/172811/beyond-control-a-systems-descent-book-1-complete
+- **The Fix** (Fuzed, 201268): new short *watchlist only*, original ongoing, 18 chapters/145 pages, latest Nov6; male fixer Tenzin and female constable wife dual POV, secret identity and criminal investigation, noble/criminal political stakes, no LitRPG. A recent review praises intricate puzzle reveals and natural prose, but first chapter inaccessible; far too short for current long ongoing preference, so not a primary recommendation. https://www.royalroad.com/fiction/201268/the-fix
+- **A Crucible of Centuries** (dead_bunny, 200731): 17 chapters / 97 pages; human male political intrigue, but too short, no opening text and mixed-lead tag. Do not prioritize.
+- Rechecked A Fallen Angel, Immovable Mage, and other trending titles against previous use and exclusions; no new qualified loop/medieval fantasy candidate found.
